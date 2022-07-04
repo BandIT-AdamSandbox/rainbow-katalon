@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slider__LastMinute-btn</name>
+   <tag></tag>
+   <elementGuidId>fe6ad5c8-8282-4f0d-9aed-86ddfdb569d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='carusel']/div/ul/li[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>d94f2139-d95c-4496-b6cc-0ed31c8c6a7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>tab</value>
+      <webElementGuid>07def5af-a7c5-4c86-8e2f-76ac2d13a2f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tabs__tab</value>
+      <webElementGuid>9b019841-cfe6-4b8a-9f67-19f63c808e63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Last Minute
+      </value>
+      <webElementGuid>efe2a715-fa53-4e72-b6ad-5aec541ba4d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carusel&quot;)/div[@class=&quot;tabs&quot;]/ul[@class=&quot;tabs__nav full-width&quot;]/li[@class=&quot;tabs__tab&quot;]</value>
+      <webElementGuid>961413d0-f884-45e0-a869-c72b53e4bd12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='carusel']/div/ul/li[2]</value>
+      <webElementGuid>5712310e-9377-49b5-9ecd-c8fca7582976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Topniejące Rabaty'])[1]/following::li[1]</value>
+      <webElementGuid>48a7a04d-044c-42d1-8b9a-d9ee9d8a3cda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zobacz wszystkie'])[4]/following::li[2]</value>
+      <webElementGuid>f9b3de16-654b-4ae4-9e7e-10a8a0218c62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Turcja'])[1]/preceding::li[1]</value>
+      <webElementGuid>d8fd4c35-5bdc-43e2-af36-44aa5dd144ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Egzotyka 2022/2023'])[1]/preceding::li[2]</value>
+      <webElementGuid>f96c1caf-b10d-4c38-a6c8-cebc236be398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>255528da-5899-481e-a7f0-80ca1b1dd86c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+        Last Minute
+      ' or . = '
+        Last Minute
+      ')]</value>
+      <webElementGuid>1b05a793-bb84-48ce-b12c-71bee1b444bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filter2-3</name>
+   <tag></tag>
+   <elementGuidId>1bd2cec7-0ebd-4ca8-9e12-0f23be4f6fff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section/div/aside/div[3]/div[2]/section/div[2]/label[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28693531-788d-4620-ac09-809650f451f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-radio__box</value>
+      <webElementGuid>881458b4-3336-4667-b348-f742e6c0aff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]/div[@class=&quot;wrap szukaj-wrap&quot;]/aside[@class=&quot;sidebar&quot;]/div[@class=&quot;side-filters&quot;]/div[@class=&quot;side-filters__filter&quot;]/section[@class=&quot;filter-section radio-filter&quot;]/div[@class=&quot;filter-section__content&quot;]/label[@class=&quot;vue-radio radio-filter__radio&quot;]/div[@class=&quot;vue-radio__box&quot;]</value>
+      <webElementGuid>0099b926-eafc-4884-ac80-dbc47be4aae2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section/div/aside/div[3]/div[2]/section/div[2]/label[3]/div</value>
+      <webElementGuid>517209bb-cc94-4b5a-bc41-2a9f290f8efb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Do 6 dni'])[1]/following::div[5]</value>
+      <webElementGuid>65745d06-2ae5-4ff1-88cf-3ad4bfb16b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ilość dni'])[1]/following::div[10]</value>
+      <webElementGuid>7a076e1f-0c1c-4b56-aa51-d188eaa83534</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dowolna ilość dni'])[1]/preceding::div[8]</value>
+      <webElementGuid>5c4b49b7-07e4-4a8f-b5aa-830ef4afbd9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='-'])[1]/preceding::div[10]</value>
+      <webElementGuid>ef04591c-deab-4823-940c-c12bc2e86a2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/section/div[2]/label[3]/div</value>
+      <webElementGuid>711116c8-732f-4bbe-bb67-ba464029bfb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

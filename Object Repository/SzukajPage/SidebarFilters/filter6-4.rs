@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>filter6-4</name>
+   <tag></tag>
+   <elementGuidId>13aa3f14-dd04-403b-9bd5-6299d6091af5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section/div/aside/div[3]/div[6]/section/div[2]/label[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3a86131d-a799-417b-b985-2bf55aabf58a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-radio__box</value>
+      <webElementGuid>044f2055-e15a-4f4a-9aab-48bca9b6dc06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section no-padding&quot;]/div[@class=&quot;wrap szukaj-wrap&quot;]/aside[@class=&quot;sidebar&quot;]/div[@class=&quot;side-filters&quot;]/div[@class=&quot;side-filters__filter&quot;]/section[@class=&quot;filter-section radio-filter&quot;]/div[@class=&quot;filter-section__content&quot;]/label[@class=&quot;vue-radio radio-filter__radio&quot;]/div[@class=&quot;vue-radio__box&quot;]</value>
+      <webElementGuid>29856392-f2e9-4bf0-a4fe-71df3cea59f6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section/div/aside/div[3]/div[6]/section/div[2]/label[4]/div</value>
+      <webElementGuid>1d39f940-303e-4a6f-a0f5-535d2efb5ff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Od 4.0'])[1]/following::div[2]</value>
+      <webElementGuid>b616d38c-2a1e-4006-9afc-e752af5a3c32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Od 5.0'])[1]/following::div[5]</value>
+      <webElementGuid>895b620f-a347-46b0-813b-9bef17409ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Od 3.0'])[1]/preceding::div[2]</value>
+      <webElementGuid>ce0844e8-71c9-45e8-8466-04a7691de80c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sezon'])[1]/preceding::div[3]</value>
+      <webElementGuid>c358b5fd-41a0-4b87-933f-a894b6f01e6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/section/div[2]/label[4]/div</value>
+      <webElementGuid>6b99cf7c-3727-4905-b295-441dbcf37b12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>content-section__box-2</name>
+   <tag></tag>
+   <elementGuidId>ed65d95a-f23d-4cf3-b056-29b71c4dfc17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section[6]/div/div/div/div/article/section[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>da5ed3c9-ad9f-4d3f-a780-e6d992fde51a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-section__col</value>
+      <webElementGuid>7d47bcee-959e-42f1-818b-2e3e1f46dc50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Wycieczki objazdoweLubisz poznawać nowe miejsca, podczas każdej podróży musisz zobaczyć wszystkie lokalne zabytki i ciekawostki, a siedzenie zbyt długo w jednym miejscu zwyczajnie Cię nudzi? Jeśli lubisz zwiedzać i często zmieniać otoczenie, to wczasy typy all-inclusive z pewnością nie mieszczą się w Twojej definicji udanego urlopu. Mamy jednak coś, co może Cię zainteresować, ponieważ nasze biuro podróży organizuje wycieczki objazdowe do wielu ciekawych miejsc.Z nami możesz odwiedzić Budapeszt i Zamki Siedmiogrodu, wybrać się do Rumunii szlakiem hrabiego Drakuli lub wyruszyć na Dalmatyńską Eskapadę do Chorwacji i Słowenii. W swojej ofercie mamy także wycieczki objazdowe dla wygodnych, podczas których przewidzianych jest więcej noclegów, grupy są mniejsze, a plan zwiedzania – mniej napięty. Opieka polskiego pilota, który jest świetnie zorientowany w lokalnych realiach sprawia, że poznajesz zwiedzane kraje „od podszewki”, masz szansę zobaczyć to, o czym nie piszą w przewodnikach.Niezależnie od tego, czy wolisz włóczyć się po starych zamczyskach, relaksować się w parkach rozrywki czy poznawać kulturę i folklor odwiedzanych państw, u nas z pewnością znajdziesz wyjazd skrojony na miarę swoich potrzeb.</value>
+      <webElementGuid>f8942e02-0baf-4772-a836-93cd77c8be8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;strona-glowna&quot;]/section[@class=&quot;section section gray&quot;]/div[@class=&quot;wrap&quot;]/div[1]/div[@class=&quot;swiper-r inactive&quot;]/div[@class=&quot;swiper-r__wrap&quot;]/article[@class=&quot;swiper-r__slides seo-section&quot;]/section[@class=&quot;seo-section__col&quot;]</value>
+      <webElementGuid>7f468040-139f-4459-8efd-e7f3c7d82e2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section[6]/div/div/div/div/article/section[2]</value>
+      <webElementGuid>d0071050-e46e-4069-b2be-f19c1df74751</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='pyszne, lokalne jedzenie'])[1]/following::section[1]</value>
+      <webElementGuid>aea97b27-2189-4027-ab26-25fdec892408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chorwacja, Grecja lub Portugalia'])[1]/following::section[1]</value>
+      <webElementGuid>38999e73-65dc-4cdd-bb86-60b95c73007e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/section[2]</value>
+      <webElementGuid>d31e2b70-c776-4846-ac39-b9e5c7734e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = 'Wycieczki objazdoweLubisz poznawać nowe miejsca, podczas każdej podróży musisz zobaczyć wszystkie lokalne zabytki i ciekawostki, a siedzenie zbyt długo w jednym miejscu zwyczajnie Cię nudzi? Jeśli lubisz zwiedzać i często zmieniać otoczenie, to wczasy typy all-inclusive z pewnością nie mieszczą się w Twojej definicji udanego urlopu. Mamy jednak coś, co może Cię zainteresować, ponieważ nasze biuro podróży organizuje wycieczki objazdowe do wielu ciekawych miejsc.Z nami możesz odwiedzić Budapeszt i Zamki Siedmiogrodu, wybrać się do Rumunii szlakiem hrabiego Drakuli lub wyruszyć na Dalmatyńską Eskapadę do Chorwacji i Słowenii. W swojej ofercie mamy także wycieczki objazdowe dla wygodnych, podczas których przewidzianych jest więcej noclegów, grupy są mniejsze, a plan zwiedzania – mniej napięty. Opieka polskiego pilota, który jest świetnie zorientowany w lokalnych realiach sprawia, że poznajesz zwiedzane kraje „od podszewki”, masz szansę zobaczyć to, o czym nie piszą w przewodnikach.Niezależnie od tego, czy wolisz włóczyć się po starych zamczyskach, relaksować się w parkach rozrywki czy poznawać kulturę i folklor odwiedzanych państw, u nas z pewnością znajdziesz wyjazd skrojony na miarę swoich potrzeb.' or . = 'Wycieczki objazdoweLubisz poznawać nowe miejsca, podczas każdej podróży musisz zobaczyć wszystkie lokalne zabytki i ciekawostki, a siedzenie zbyt długo w jednym miejscu zwyczajnie Cię nudzi? Jeśli lubisz zwiedzać i często zmieniać otoczenie, to wczasy typy all-inclusive z pewnością nie mieszczą się w Twojej definicji udanego urlopu. Mamy jednak coś, co może Cię zainteresować, ponieważ nasze biuro podróży organizuje wycieczki objazdowe do wielu ciekawych miejsc.Z nami możesz odwiedzić Budapeszt i Zamki Siedmiogrodu, wybrać się do Rumunii szlakiem hrabiego Drakuli lub wyruszyć na Dalmatyńską Eskapadę do Chorwacji i Słowenii. W swojej ofercie mamy także wycieczki objazdowe dla wygodnych, podczas których przewidzianych jest więcej noclegów, grupy są mniejsze, a plan zwiedzania – mniej napięty. Opieka polskiego pilota, który jest świetnie zorientowany w lokalnych realiach sprawia, że poznajesz zwiedzane kraje „od podszewki”, masz szansę zobaczyć to, o czym nie piszą w przewodnikach.Niezależnie od tego, czy wolisz włóczyć się po starych zamczyskach, relaksować się w parkach rozrywki czy poznawać kulturę i folklor odwiedzanych państw, u nas z pewnością znajdziesz wyjazd skrojony na miarę swoich potrzeb.')]</value>
+      <webElementGuid>d1a98c90-756d-4257-a13e-40144744c8f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

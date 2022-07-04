@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Happy Hours During Hours,Chrome 103.0.5060.53,,,2022-07-04 15:41:55,2022-07-04 15:42:15,"19,943s",FAILED
+,,,,,,,
+Test Cases/Happy Hours/happy-hours_promo-active,Chrome 103.0.5060.53,,,2022-07-04 15:42:06,2022-07-04 15:42:15,"8,987s",FAILED
+"openBrowser("""")",Chrome 103.0.5060.53,,,2022-07-04 15:42:06,2022-07-04 15:42:08,"1,900s",PASSED
+"navigateToUrl(""https://r.pl/happy-hours"")",Chrome 103.0.5060.53,,,2022-07-04 15:42:08,2022-07-04 15:42:12,"4,235s",PASSED
+maximizeWindow(),Chrome 103.0.5060.53,,,2022-07-04 15:42:12,2022-07-04 15:42:12,"0,231s",PASSED
+"click(findTestObject(""HappyHoursPage/zamknijCiastka""))",Chrome 103.0.5060.53,,,2022-07-04 15:42:12,2022-07-04 15:42:13,"0,439s",PASSED
+"verifyElementNotPresent(findTestObject(""HappyHoursPage/clock-module2""), 1)",Chrome 103.0.5060.53,,,2022-07-04 15:42:13,2022-07-04 15:42:15,"2,166s",FAILED

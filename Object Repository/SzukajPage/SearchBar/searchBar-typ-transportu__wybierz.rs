@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchBar-typ-transportu__wybierz</name>
+   <tag></tag>
+   <elementGuidId>b1e92a3d-a0a7-44b7-9fd8-84088dbb9301</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[5]/div[2]/div[3]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.filtry-panel__footer-button.r-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9d964eac-7e47-4462-9452-3c1c6a316a99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filtry-panel__footer-button r-button</value>
+      <webElementGuid>f4a90112-1f81-45b1-8f31-55cfd3a5a817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          wybierz
+        </value>
+      <webElementGuid>dbd130a5-aa11-48a9-9476-c2ef30067167</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/header[@class=&quot;header-banner header-banner__webp r-header-mobile--display&quot;]/div[@class=&quot;wrap wrap-header&quot;]/div[@class=&quot;filtry filtry&quot;]/div[@class=&quot;filtry-input filtry__element filtry__element--transport filtry-input--no-clearable&quot;]/div[@class=&quot;filtry-panel filtry-panel&quot;]/div[@class=&quot;filtry-panel__footer&quot;]/div[@class=&quot;filtry-panel__footer-buttons&quot;]/button[@class=&quot;filtry-panel__footer-button r-button&quot;]</value>
+      <webElementGuid>fcc3b44a-47b8-4e7b-ab2a-24ad406691ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[5]/div[2]/div[3]/div/button</value>
+      <webElementGuid>c82e5e77-0a84-4863-8a46-987c25d726d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dojazd własny'])[1]/following::button[1]</value>
+      <webElementGuid>c9f388d8-2e46-4286-8287-76398c82533d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Autobus'])[1]/following::button[1]</value>
+      <webElementGuid>3bb3c19b-20c6-45d8-81d7-3360b316ebc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='szukaj'])[1]/preceding::button[1]</value>
+      <webElementGuid>f253c40c-be98-482a-a680-68c0c2314aca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rainbow'])[1]/preceding::button[2]</value>
+      <webElementGuid>c3cfd980-9d23-4fdd-82c6-3b44b362908c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='wybierz']/parent::*</value>
+      <webElementGuid>1808760b-a060-44b6-a964-9d750c878b6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/button</value>
+      <webElementGuid>232414f0-f53d-4a8a-aacf-dd1c3990d199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+          wybierz
+        ' or . = '
+          wybierz
+        ')]</value>
+      <webElementGuid>dacfb4e5-2900-49b3-8c4d-5d95739447c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

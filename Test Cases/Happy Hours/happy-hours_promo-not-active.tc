@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Happy hours is promotion that happens only during 13:00 and 15:00 - this test check if outside this range clock module is showing and verify text.</description>
+   <name>happy-hours_promo-not-active</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>297e9a4f-13b0-4b49-976d-8009ac91793b</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>destination-akordeon__first-element</name>
+   <tag></tag>
+   <elementGuidId>1598a990-a90b-40d7-a50a-e749af9d0803</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.accordion__text--head</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section[2]/div/div/div/div/div[2]/div/ul/li/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>8c184fa0-f197-4a48-8b13-8120846355dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>accordion__text--head</value>
+      <webElementGuid>e484bbeb-0f75-4bd0-8055-a7077acc0146</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dlaczego warto wyjechać do Grecji? </value>
+      <webElementGuid>756a9e10-5c9e-4c4d-a2e1-9d134405ed48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/section[@class=&quot;section blue-Gradient&quot;]/div[@class=&quot;wrap&quot;]/div[1]/div[@class=&quot;seo-long__container background&quot;]/div[@class=&quot;seo-long__container--row&quot;]/div[@class=&quot;seo-long__container--col w56&quot;]/div[@class=&quot;accordion-seo__container&quot;]/ul[@class=&quot;accordion__list&quot;]/li[@class=&quot;accordion__list--item&quot;]/h2[@class=&quot;accordion__text--head&quot;]</value>
+      <webElementGuid>744decdb-6866-4940-881d-4996b3a70ef8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section[2]/div/div/div/div/div[2]/div/ul/li/h2</value>
+      <webElementGuid>d7b1882f-ad0f-412a-afe6-0cdf6599f1a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Minute'])[2]/following::h2[1]</value>
+      <webElementGuid>7ab3cf82-7cbf-44b1-b959-ef8ba6a46513</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Inclusive'])[1]/following::h2[1]</value>
+      <webElementGuid>ccb9325b-5e87-482c-9438-2cf23b09547c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Co warto wiedzieć przed podróżą do Grecji – praktyczny przewodnik'])[1]/preceding::h2[1]</value>
+      <webElementGuid>e6d4e635-110b-460d-b922-ae7d1bee7b58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/h2</value>
+      <webElementGuid>6e20a010-3344-4c7d-8fc3-92f152e7e52d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Dlaczego warto wyjechać do Grecji? ' or . = 'Dlaczego warto wyjechać do Grecji? ')]</value>
+      <webElementGuid>39644f3f-ab8c-4c44-b90e-c8c096e61dfa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slider_Topniejace-firstEle</name>
+   <tag></tag>
+   <elementGuidId>742471ea-fa8d-449b-9ab5-06931a0f6188</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/main/section[1]/div/div/div[1]/div/div[1]/article/div[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[1]/div/div/div[4]/div/div[1]/article/div[1][count(. | //div[@class = 'promocje__item first']) = count(//div[@class = 'promocje__item first'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[1]/div/div/div[4]/div/div[1]/article/div[1]</value>
+      <webElementGuid>786a88c3-7ec7-4c6b-843e-12db9468b340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>460f4c7e-1189-4c5f-9c65-56cbc8f9c50c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>promocje__item first</value>
+      <webElementGuid>107ce8cf-d22d-453d-8073-e87b40b24ce4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

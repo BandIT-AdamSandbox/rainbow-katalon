@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slider__Last</name>
+   <tag></tag>
+   <elementGuidId>f1c0bcdf-a34b-4602-b94b-7739bde8265e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/main/section[1]/div/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[1]/div/div/div[3][count(. | //div[@class = 'promocje promocje--csr']) = count(//div[@class = 'promocje promocje--csr'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[1]/div/div/div[3]</value>
+      <webElementGuid>9c51e920-1111-40ba-a792-4e9a87dddb82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b6a60cfb-3afe-4922-8073-2d096ac7f1c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>promocje promocje--csr</value>
+      <webElementGuid>48686c9d-327d-4358-a0aa-cc7529d168f4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slider__Egzotyka</name>
+   <tag></tag>
+   <elementGuidId>870677c5-1592-4d2f-841d-f3a536123125</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/main/section[1]/div/div/div[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[1]/div/div/div[1][count(. | //div[@class = 'promocje promocje--ssr']) = count(//div[@class = 'promocje promocje--ssr'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[1]/div/div/div[1]</value>
+      <webElementGuid>886f4b34-b5f7-4554-82cc-b7c8500cc4ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ff345808-1b73-4df5-865d-18e7c60f61f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>promocje promocje--ssr</value>
+      <webElementGuid>412b6799-1f43-412b-8ce6-c9b28b485b04</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

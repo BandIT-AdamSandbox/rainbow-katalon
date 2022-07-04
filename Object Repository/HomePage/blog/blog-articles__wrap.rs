@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>blog-articles__wrap</name>
+   <tag></tag>
+   <elementGuidId>6b9c2e45-fe9e-4374-820a-4d3e4e2569ff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section[5]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.blog.strona-glowna__blog</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>113c8d9c-c845-45d6-9f62-0497eafd7424</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>blog strona-glowna__blog</value>
+      <webElementGuid>32fd1437-87b0-4fdf-98fd-2c237a00a457</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  30.06.2022 Pogoda, klimat i temperatury w Portugalii. Kiedy jechać do Lizbony i Algarve? Słynąca z fantastycznej kuchni, piłki nożnej, muzyki fado oraz przepięknej przyrody i architektury Portugalia to wymarzone miejsce na wakacje. Znajdziemy tu zarówno wspaniałe piaszczyste plaże, jak i widowiskowe klify oraz urokliwe zatoczki. Na miłośników zwiedzania czeka stołeczna Lizbona, położone u ...   28.06.2022 Pogoda, klimat i średnie temperatury w Hiszpanii Hiszpania to jedna z najciekawszych destynacji wakacyjnych w Europie. Znajdziemy tu ciepłe morze, wspaniałe plaże z mnóstwem przytulnych knajpek, gdzie można rozsmakować się w miejscowej kuchni oraz bogatą kulturę, która m.in. zrodziła muzykę flamenco. Warto też wiedzieć, że Hiszpania to także raj dla osób zainteresowanych ...   27.06.2022 Egzotyka z Gdańska bezpośrednio Dreamlinerem! Nowe połączenia już od listopada Dominikana, Meksyk, Kuba, Tajlandia – do tych egzotycznych miejsc Rainbow zabierze Klientów już tej jesieni. Po raz pierwszy w historii bezpośrednio Dreamlinerem z lotniska w Gdańsku. Podróż rozpocznie się z oddanego do użytku w ostatni czwartek nowego pirsu zachodniego Terminala T2. Uroczystość otwarcia połączona zos...</value>
+      <webElementGuid>45db200f-a223-4853-a6f8-88dd1aa3f5be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;strona-glowna&quot;]/section[@class=&quot;section&quot;]/div[@class=&quot;wrap&quot;]/div[@class=&quot;blog strona-glowna__blog&quot;]</value>
+      <webElementGuid>782ae409-c37a-4f44-b553-4370d5b7acea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section[5]/div/div[2]</value>
+      <webElementGuid>0cf43eb7-b623-4e94-ae91-28b7c1bf0406</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='blog'])[1]/following::div[1]</value>
+      <webElementGuid>c3c96401-b17a-4173-9d0a-5a03d3fbfc16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='od 6 144 zł'])[1]/following::div[3]</value>
+      <webElementGuid>7b24a368-99fa-4c66-9d6c-6cfb5ead363c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[5]/div/div[2]</value>
+      <webElementGuid>8c73d6c6-5f04-4fc7-80d7-b0464d42ad91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  30.06.2022 Pogoda, klimat i temperatury w Portugalii. Kiedy jechać do Lizbony i Algarve? Słynąca z fantastycznej kuchni, piłki nożnej, muzyki fado oraz przepięknej przyrody i architektury Portugalia to wymarzone miejsce na wakacje. Znajdziemy tu zarówno wspaniałe piaszczyste plaże, jak i widowiskowe klify oraz urokliwe zatoczki. Na miłośników zwiedzania czeka stołeczna Lizbona, położone u ...   28.06.2022 Pogoda, klimat i średnie temperatury w Hiszpanii Hiszpania to jedna z najciekawszych destynacji wakacyjnych w Europie. Znajdziemy tu ciepłe morze, wspaniałe plaże z mnóstwem przytulnych knajpek, gdzie można rozsmakować się w miejscowej kuchni oraz bogatą kulturę, która m.in. zrodziła muzykę flamenco. Warto też wiedzieć, że Hiszpania to także raj dla osób zainteresowanych ...   27.06.2022 Egzotyka z Gdańska bezpośrednio Dreamlinerem! Nowe połączenia już od listopada Dominikana, Meksyk, Kuba, Tajlandia – do tych egzotycznych miejsc Rainbow zabierze Klientów już tej jesieni. Po raz pierwszy w historii bezpośrednio Dreamlinerem z lotniska w Gdańsku. Podróż rozpocznie się z oddanego do użytku w ostatni czwartek nowego pirsu zachodniego Terminala T2. Uroczystość otwarcia połączona zos...' or . = '  30.06.2022 Pogoda, klimat i temperatury w Portugalii. Kiedy jechać do Lizbony i Algarve? Słynąca z fantastycznej kuchni, piłki nożnej, muzyki fado oraz przepięknej przyrody i architektury Portugalia to wymarzone miejsce na wakacje. Znajdziemy tu zarówno wspaniałe piaszczyste plaże, jak i widowiskowe klify oraz urokliwe zatoczki. Na miłośników zwiedzania czeka stołeczna Lizbona, położone u ...   28.06.2022 Pogoda, klimat i średnie temperatury w Hiszpanii Hiszpania to jedna z najciekawszych destynacji wakacyjnych w Europie. Znajdziemy tu ciepłe morze, wspaniałe plaże z mnóstwem przytulnych knajpek, gdzie można rozsmakować się w miejscowej kuchni oraz bogatą kulturę, która m.in. zrodziła muzykę flamenco. Warto też wiedzieć, że Hiszpania to także raj dla osób zainteresowanych ...   27.06.2022 Egzotyka z Gdańska bezpośrednio Dreamlinerem! Nowe połączenia już od listopada Dominikana, Meksyk, Kuba, Tajlandia – do tych egzotycznych miejsc Rainbow zabierze Klientów już tej jesieni. Po raz pierwszy w historii bezpośrednio Dreamlinerem z lotniska w Gdańsku. Podróż rozpocznie się z oddanego do użytku w ostatni czwartek nowego pirsu zachodniego Terminala T2. Uroczystość otwarcia połączona zos...')]</value>
+      <webElementGuid>67149a3a-451a-42fd-a116-80664c1a7926</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

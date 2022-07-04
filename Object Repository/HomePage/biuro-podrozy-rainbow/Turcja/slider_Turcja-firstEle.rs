@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slider_Turcja-firstEle</name>
+   <tag></tag>
+   <elementGuidId>d7157465-2e36-4e17-a4fb-bfa46a5736d4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/main/section[1]/div/div/div[1]/div/div[1]/article/div[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[1]/div/div/div[4]/div/div[1]/article/div[1][count(. | //div[@class = 'promocje__item first']) = count(//div[@class = 'promocje__item first'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[1]/div/div/div[4]/div/div[1]/article/div[1]</value>
+      <webElementGuid>26fcc45c-92d9-4429-82ae-3a58a0139405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6cdc81c1-3910-406c-9c01-9dc42be41ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>promocje__item first</value>
+      <webElementGuid>ce4d3d52-0c63-4505-b6c4-ca3fc6c7b9eb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

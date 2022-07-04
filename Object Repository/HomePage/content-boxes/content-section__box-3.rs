@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>content-section__box-3</name>
+   <tag></tag>
+   <elementGuidId>234d5a18-6008-4d20-bdb6-ae708fbfb501</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section[6]/div/div/div/div/article/section[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>section</value>
+      <webElementGuid>4af7e745-be8d-403a-ba64-44dbd46990cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>seo-section__col</value>
+      <webElementGuid>f638ea06-12a6-4672-90f9-28e39ae0e998</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> All InclusiveWyjazdy typu all inclusive są idealnym wyborem dla każdego turysty, zarówno dla singla podróżującego w pojedynkę, dużej rodziny z dziećmi, jak i dla par wybierających się na romantyczną wycieczkę we dwoje. Koszt takich wakacji, choć początkowo może wydawać się wysoki, obejmuje wszelkie wydatki - od podróży, przez pobyt w luksusowym hotelu, po wyżywienie, napoje i drinki. Pamiętaj, że nie ma żadnych międzynarodowych regulacji dokładnie określających, co wchodzi w zakres oferty all inclusive.Niektóre hotele wprowadzają pewne ograniczenia, dlatego szczegóły musisz zawsze sprawdzić przy wyborze konkretnej oferty. Wybierając tę formę urlopu, masz jednak pewność, że nic nie zakłóci Twojego spokoju, nie będziesz musiał zaprzątać sobie głowy żadnymi organizacyjnymi szczegółami. Musisz jedynie wybrać wymarzoną destynację, określić swój budżet i cieszyć się wakacjami.Nasze biuro podróży oferuje wyjazdy all inclusive do miejsc ulubionych przez wielu turystów, które od lat znajdują się w czołówce wybieranych kierunków, takich jak Grecja, Egipt czy Tunezja. Możemy jednak zabrać Cię także w mniej oczywiste miejsca, między innymi do Albanii, Brazylii lub na Malediwy.</value>
+      <webElementGuid>4a2b5df3-b6c5-4b32-95bd-3eee99c117ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;strona-glowna&quot;]/section[@class=&quot;section section gray&quot;]/div[@class=&quot;wrap&quot;]/div[1]/div[@class=&quot;swiper-r inactive&quot;]/div[@class=&quot;swiper-r__wrap&quot;]/article[@class=&quot;swiper-r__slides seo-section&quot;]/section[@class=&quot;seo-section__col&quot;]</value>
+      <webElementGuid>f2fbd91b-c9aa-4356-8bbf-dfe9ab98d9bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section[6]/div/div/div/div/article/section[3]</value>
+      <webElementGuid>63514fa5-c36e-49d8-95db-6eb41fecb94d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='wyjazd skrojony na miarę swoich potrzeb'])[1]/following::section[1]</value>
+      <webElementGuid>8d48f799-822d-4de8-a8e3-6ae746eff8bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Opieka polskiego pilota'])[1]/following::section[1]</value>
+      <webElementGuid>af36884f-7ea9-4376-9c10-65eabe3efde8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/section[3]</value>
+      <webElementGuid>09f79a61-d0f1-4425-8f0a-66d596753408</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//section[(text() = ' All InclusiveWyjazdy typu all inclusive są idealnym wyborem dla każdego turysty, zarówno dla singla podróżującego w pojedynkę, dużej rodziny z dziećmi, jak i dla par wybierających się na romantyczną wycieczkę we dwoje. Koszt takich wakacji, choć początkowo może wydawać się wysoki, obejmuje wszelkie wydatki - od podróży, przez pobyt w luksusowym hotelu, po wyżywienie, napoje i drinki. Pamiętaj, że nie ma żadnych międzynarodowych regulacji dokładnie określających, co wchodzi w zakres oferty all inclusive.Niektóre hotele wprowadzają pewne ograniczenia, dlatego szczegóły musisz zawsze sprawdzić przy wyborze konkretnej oferty. Wybierając tę formę urlopu, masz jednak pewność, że nic nie zakłóci Twojego spokoju, nie będziesz musiał zaprzątać sobie głowy żadnymi organizacyjnymi szczegółami. Musisz jedynie wybrać wymarzoną destynację, określić swój budżet i cieszyć się wakacjami.Nasze biuro podróży oferuje wyjazdy all inclusive do miejsc ulubionych przez wielu turystów, które od lat znajdują się w czołówce wybieranych kierunków, takich jak Grecja, Egipt czy Tunezja. Możemy jednak zabrać Cię także w mniej oczywiste miejsca, między innymi do Albanii, Brazylii lub na Malediwy.' or . = ' All InclusiveWyjazdy typu all inclusive są idealnym wyborem dla każdego turysty, zarówno dla singla podróżującego w pojedynkę, dużej rodziny z dziećmi, jak i dla par wybierających się na romantyczną wycieczkę we dwoje. Koszt takich wakacji, choć początkowo może wydawać się wysoki, obejmuje wszelkie wydatki - od podróży, przez pobyt w luksusowym hotelu, po wyżywienie, napoje i drinki. Pamiętaj, że nie ma żadnych międzynarodowych regulacji dokładnie określających, co wchodzi w zakres oferty all inclusive.Niektóre hotele wprowadzają pewne ograniczenia, dlatego szczegóły musisz zawsze sprawdzić przy wyborze konkretnej oferty. Wybierając tę formę urlopu, masz jednak pewność, że nic nie zakłóci Twojego spokoju, nie będziesz musiał zaprzątać sobie głowy żadnymi organizacyjnymi szczegółami. Musisz jedynie wybrać wymarzoną destynację, określić swój budżet i cieszyć się wakacjami.Nasze biuro podróży oferuje wyjazdy all inclusive do miejsc ulubionych przez wielu turystów, które od lat znajdują się w czołówce wybieranych kierunków, takich jak Grecja, Egipt czy Tunezja. Możemy jednak zabrać Cię także w mniej oczywiste miejsca, między innymi do Albanii, Brazylii lub na Malediwy.')]</value>
+      <webElementGuid>08e01ea9-7cd6-4abf-ac78-d6ad8d97cbf3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

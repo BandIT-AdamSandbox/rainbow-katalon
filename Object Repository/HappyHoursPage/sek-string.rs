@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sek-string</name>
+   <tag></tag>
+   <elementGuidId>4eacf0af-2342-4676-a875-7b47ab45ab23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.flip-clock__piece.flip > span.flip-clock__slot</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div[3]/div/span[4]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fde0c80a-a197-45a8-97fa-4f51f713ba7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flip-clock__slot</value>
+      <webElementGuid>c6ba7b80-c24d-48ae-87cc-ebf52e8301ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>(sek)</value>
+      <webElementGuid>b68b9a21-28b8-492e-8912-6e2adfa86fd0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/div[@class=&quot;happy-hours&quot;]/div[@class=&quot;happy-hours__counter&quot;]/div[@class=&quot;container flip-clock happy-hours__counter-countdown&quot;]/span[@class=&quot;flip-clock__piece flip&quot;]/span[@class=&quot;flip-clock__slot&quot;]</value>
+      <webElementGuid>17fa2a49-33ea-452d-88d7-3150cda2c0b7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div[3]/div/span[4]/span[2]</value>
+      <webElementGuid>689243a3-84cf-44d9-93c7-e97d9873e0a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(min)'])[1]/following::span[3]</value>
+      <webElementGuid>5237a110-6801-42da-add0-9bf52f6cf1f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(godz)'])[1]/following::span[6]</value>
+      <webElementGuid>0583fd97-3941-4a01-8e10-51dd6c9ec2c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call center'])[1]/preceding::span[1]</value>
+      <webElementGuid>78a723b5-5086-4acd-bf6a-dc0fbbb3d30c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mail'])[1]/preceding::span[2]</value>
+      <webElementGuid>f78a760f-64b2-49e9-8aa9-ca920ed0ce3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='(sek)']/parent::*</value>
+      <webElementGuid>43f04961-1ebe-438c-a7a4-9d9d5d8125f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[4]/span[2]</value>
+      <webElementGuid>9b32efdb-69c8-460d-94fd-de7dbcb69786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '(sek)' or . = '(sek)')]</value>
+      <webElementGuid>d20953af-8c95-4f61-a0c9-76cb15b100e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

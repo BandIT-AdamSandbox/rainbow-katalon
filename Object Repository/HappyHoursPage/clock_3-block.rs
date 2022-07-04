@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>clock_3-block</name>
+   <tag></tag>
+   <elementGuidId>827b2e83-ef63-4d73-9c54-7ee52acf1a57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div[3]/div/span[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7d6237d4-a3b7-4617-86d2-94b863a93c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flip-clock__card flip-card</value>
+      <webElementGuid>eaddfc1c-c291-4f3b-8a06-40e47bd27071</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>21   </value>
+      <webElementGuid>a470ac77-f5ed-4ccf-aaf6-116c89574172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/div[@class=&quot;happy-hours&quot;]/div[@class=&quot;happy-hours__counter&quot;]/div[@class=&quot;container flip-clock happy-hours__counter-countdown&quot;]/span[@class=&quot;flip-clock__piece&quot;]/span[@class=&quot;flip-clock__card flip-card&quot;]</value>
+      <webElementGuid>8afb214c-477d-41d4-bee2-ada15d5f9ea1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div[3]/div/span[3]/span</value>
+      <webElementGuid>166017d3-85b1-4585-baae-812f995c7329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(godz)'])[1]/following::span[2]</value>
+      <webElementGuid>a5938e0a-a928-4de0-b87b-0754acb66416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dni'])[1]/following::span[5]</value>
+      <webElementGuid>d06c4f1f-c051-4754-9961-dc087c140d46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(min)'])[1]/preceding::span[1]</value>
+      <webElementGuid>4ec8dfe2-5a3c-4f8f-98d0-26e33842c229</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(sek)'])[1]/preceding::span[3]</value>
+      <webElementGuid>b008365a-9a53-49c3-875c-7c17994367ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/span</value>
+      <webElementGuid>c2676bc1-0af5-494a-806a-d1ba02fcd916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '21   ' or . = '21   ')]</value>
+      <webElementGuid>cb47b867-6725-47e7-bf7f-039f81f234ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchBar-ilosc-lotnisk</name>
+   <tag></tag>
+   <elementGuidId>1827d84d-2aa3-4a09-957f-adc02941476b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[4]/div/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.filtry-input.filtry__element.filtry__element--skad > div.filtry-input__wrap > div.filtry-input__tag > span.filtry-input__tag-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6fa5016b-7895-453b-bc69-448ade0d957f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filtry-input__tag-text</value>
+      <webElementGuid>a531e7df-5b1d-4185-9e93-d7b1292f5c10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>11 lotnisk</value>
+      <webElementGuid>078ad7ab-1bdd-4891-9e74-c694603d9b41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/header[@class=&quot;header-banner header-banner__webp r-header-mobile--display&quot;]/div[@class=&quot;wrap wrap-header&quot;]/div[@class=&quot;filtry filtry&quot;]/div[@class=&quot;filtry-input filtry__element filtry__element--skad&quot;]/div[@class=&quot;filtry-input__wrap&quot;]/div[@class=&quot;filtry-input__tag&quot;]/span[@class=&quot;filtry-input__tag-text&quot;]</value>
+      <webElementGuid>8eaeabe1-bf55-4581-8df5-6a4d77d35541</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[4]/div/div[3]/span</value>
+      <webElementGuid>6006569f-8ddb-4264-a72e-341edae0d6cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skąd wyjazd?'])[1]/following::span[1]</value>
+      <webElementGuid>07be8b2d-ce06-4eda-a962-f772b5920f0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ile osób?'])[1]/following::span[2]</value>
+      <webElementGuid>e5b1b000-104c-4539-9275-075b26f47a44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Typ Transportu'])[1]/preceding::span[1]</value>
+      <webElementGuid>a90b53f9-75f6-4b02-b1c7-fda39477445b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samolot'])[1]/preceding::span[1]</value>
+      <webElementGuid>aac24ce6-ba98-4664-aacb-373c9ef4b557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='11 lotnisk']/parent::*</value>
+      <webElementGuid>a605823e-c5eb-40e4-9d86-461eca852f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[3]/span</value>
+      <webElementGuid>a82297cd-2781-44b5-8959-b7f798e03857</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '11 lotnisk' or . = '11 lotnisk')]</value>
+      <webElementGuid>d876855d-4947-4ef4-a48e-4dcd99c6f3ae</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>destination-akordeon__first-para</name>
+   <tag></tag>
+   <elementGuidId>3f621bed-78cb-4ff2-9fc1-00baeabcdf19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[2]/div/div/div/div[1]/div[2]/div/ul/li[1]/div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/main/section[2]/div/div/div/div[1]/div[2]/div/ul/li[1]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d3ef013f-7571-43d6-a121-51023422660c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grecja jest jednym z najciekawszych i najbardziej różnorodnych krajów w Europie. Liczne antyczne zabytki sąsiadują tu z przepiękną przyrodą. Część lądowa Grecji upstrzona jest wieloma ciekawymi pasmami górskimi, a klimat greckich wysp, pełnych piaszczystych plaż i urokliwych zatok jest niespotykany nigdzie indziej na świecie. To wszystko okraszone jest fenomenalną kuchnią i przepysznymi lokalnymi winami.</value>
+      <webElementGuid>9a9746b1-b5b1-41f9-9887-fa4618fc751b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[2]/div/div/div/div[1]/div[2]/div/ul/li[1]/div</value>
+      <webElementGuid>f925d047-210f-473d-99ff-e95124e160d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section[2]/div/div/div/div/div[2]/div/ul/li/div/p/span</value>
+      <webElementGuid>c5b9a7c0-e73d-449e-97ff-d534c2769b75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dlaczego warto wyjechać do Grecji?'])[1]/following::span[2]</value>
+      <webElementGuid>657e23aa-368e-46a2-a14d-21dda9233f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Minute'])[2]/following::span[3]</value>
+      <webElementGuid>61865ad5-cd48-4305-9426-314c012d12ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Co warto wiedzieć przed podróżą do Grecji – praktyczny przewodnik'])[1]/preceding::span[1]</value>
+      <webElementGuid>388620d4-be4a-4ae8-b69e-872335d00e31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Walutą obowiązującą w Grecji jest euro.'])[1]/preceding::span[4]</value>
+      <webElementGuid>b73d7bcb-e737-4716-8c00-ec94d152c79a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Grecja jest jednym z najciekawszych i najbardziej różnorodnych krajów w Europie. Liczne antyczne zabytki sąsiadują tu z przepiękną przyrodą. Część lądowa Grecji upstrzona jest wieloma ciekawymi pasmami górskimi, a klimat greckich wysp, pełnych piaszczystych plaż i urokliwych zatok jest niespotykany nigdzie indziej na świecie. To wszystko okraszone jest fenomenalną kuchnią i przepysznymi lokalnymi winami.']/parent::*</value>
+      <webElementGuid>cfe74407-d9c9-4cf4-afb7-86bd1840bc4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/span</value>
+      <webElementGuid>17de83df-a73f-4ab2-89a1-579d1ac513ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Grecja jest jednym z najciekawszych i najbardziej różnorodnych krajów w Europie. Liczne antyczne zabytki sąsiadują tu z przepiękną przyrodą. Część lądowa Grecji upstrzona jest wieloma ciekawymi pasmami górskimi, a klimat greckich wysp, pełnych piaszczystych plaż i urokliwych zatok jest niespotykany nigdzie indziej na świecie. To wszystko okraszone jest fenomenalną kuchnią i przepysznymi lokalnymi winami.' or . = 'Grecja jest jednym z najciekawszych i najbardziej różnorodnych krajów w Europie. Liczne antyczne zabytki sąsiadują tu z przepiękną przyrodą. Część lądowa Grecji upstrzona jest wieloma ciekawymi pasmami górskimi, a klimat greckich wysp, pełnych piaszczystych plaż i urokliwych zatok jest niespotykany nigdzie indziej na świecie. To wszystko okraszone jest fenomenalną kuchnią i przepysznymi lokalnymi winami.')]</value>
+      <webElementGuid>c2fd2205-2ddc-458a-8f46-ae092e84a184</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

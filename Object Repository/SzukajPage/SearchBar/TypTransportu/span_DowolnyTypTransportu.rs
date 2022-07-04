@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DowolnyTypTransportu</name>
+   <tag></tag>
+   <elementGuidId>ac14bdaf-eb4f-416c-ac1a-be4b69481285</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[5]/div[2]/div[2]/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.vue-radio__text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4b33e7cc-ed89-48fe-b539-bad6f6ca4498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-radio__text</value>
+      <webElementGuid>9046bed3-2205-4d9c-880e-6f6759ae4eb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        Dowolny
+      </value>
+      <webElementGuid>0e73c9aa-7c89-486a-b3f4-ec4a9c82ebd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/header[@class=&quot;header-banner header-banner__webp r-header-mobile--display&quot;]/div[@class=&quot;wrap wrap-header&quot;]/div[@class=&quot;filtry filtry&quot;]/div[@class=&quot;filtry-input filtry__element filtry__element--transport filtry-input--no-clearable&quot;]/div[@class=&quot;filtry-panel filtry-panel&quot;]/div[@class=&quot;filtry-panel__body&quot;]/div[@class=&quot;transport__radio show-desktop&quot;]/label[@class=&quot;vue-radio radio-filter__radio marked&quot;]/span[@class=&quot;vue-radio__text&quot;]</value>
+      <webElementGuid>f64d3768-8009-410f-9971-24820ddf00b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[5]/div[2]/div[2]/div/label/span</value>
+      <webElementGuid>e7e2627b-8554-4228-805c-931b87e3d130</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Typ transportu'])[1]/following::span[1]</value>
+      <webElementGuid>00921a7a-bab3-494b-b05d-8b7a823ea171</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dowolny'])[1]/following::span[2]</value>
+      <webElementGuid>0d455abb-0368-434c-b1ff-a088e7ee2a94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samolot'])[1]/preceding::span[1]</value>
+      <webElementGuid>395ae6f8-e2cb-4592-8982-009292df31cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samolot Dreamliner'])[1]/preceding::span[2]</value>
+      <webElementGuid>a8c98e06-6e3f-40cc-a985-3b709500dc81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>75cc4d45-bf94-4c51-82a1-e9b4b97279ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+        Dowolny
+      ' or . = '
+        Dowolny
+      ')]</value>
+      <webElementGuid>18c370ce-4913-4cfe-8bd9-5f854c7b6278</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

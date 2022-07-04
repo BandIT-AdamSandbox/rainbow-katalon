@@ -1,0 +1,33 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SeoContentSearchPage/destination-akordeon__first-para",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/div[2]/main/section[2]/div/div/div/div/div[2]/div/ul/li/div/p/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Last Minute\u0027])[2]/following::span[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SeoContentSearchPage/destination-akordeon__first-para_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SeoContentSearchPage/destination-akordeon-2",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "//div[@id\u003d\u0027__layout\u0027]/div/div[2]/main/section[2]/div/div/div/div/div[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SeoContentSearchPage/destination-akordeon-2_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SeoContentSearchPage/zamknijCiastka",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/div[4]/div[2]/div/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Więcej...\u0027])[1]/following::div[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SeoContentSearchPage/zamknijCiastka_neighbor.png"
+    }
+  ]
+}

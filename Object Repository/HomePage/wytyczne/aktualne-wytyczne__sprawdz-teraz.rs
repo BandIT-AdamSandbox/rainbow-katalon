@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>aktualne-wytyczne__sprawdz-teraz</name>
+   <tag></tag>
+   <elementGuidId>9be326b7-cb5d-4b9d-842d-0ad72529be87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section[2]/div/div/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a > span.wytyczne-text-desktop</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>22d9cd7b-0a77-42ae-b2b7-f7a6d2456e1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>wytyczne-text-desktop</value>
+      <webElementGuid>bab71faa-9d11-4638-aad7-37f970866ac6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SPRAWDŹ TERAZ >></value>
+      <webElementGuid>30676ae9-212f-4b18-8195-3bc64f1e81c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;strona-glowna&quot;]/section[@class=&quot;section&quot;]/div[@class=&quot;wrap&quot;]/div[@class=&quot;wytyczne&quot;]/a[1]/span[@class=&quot;wytyczne-text-desktop&quot;]</value>
+      <webElementGuid>f164323c-45fa-40dd-b301-c8c837aeecc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section[2]/div/div/a/span</value>
+      <webElementGuid>5105f8c2-e722-4018-8095-a7547c5e01b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AKTUALNE WYTYCZNE'])[2]/following::span[1]</value>
+      <webElementGuid>2b05ddc3-9b34-47ed-aff7-2b7c89a8c9ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rainbow poleca'])[1]/preceding::span[1]</value>
+      <webElementGuid>efd2c1de-2221-47ec-b335-b8d2dae3551d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wypoczynek • Bułgaria: Słoneczny Brzeg - Sozopol'])[1]/preceding::span[2]</value>
+      <webElementGuid>5e16e1f6-241a-46f4-b01f-5e0ed9b5f575</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SPRAWDŹ TERAZ >>']/parent::*</value>
+      <webElementGuid>495ff223-2b8b-49b4-ab12-473428070cdb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/a/span</value>
+      <webElementGuid>be5beae3-d089-41ab-b545-f47fb9c7b74d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'SPRAWDŹ TERAZ >>' or . = 'SPRAWDŹ TERAZ >>')]</value>
+      <webElementGuid>fe595310-f545-45b2-b600-379842a04e46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

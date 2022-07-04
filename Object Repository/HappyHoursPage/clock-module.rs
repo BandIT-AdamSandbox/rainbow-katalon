@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>clock-module</name>
+   <tag></tag>
+   <elementGuidId>26278789-6926-43e7-b4e8-d530e9ebc560</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.container.flip-clock.happy-hours__counter-countdown</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8026bdee-2e37-4cab-b7f8-925698177d6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>container flip-clock happy-hours__counter-countdown</value>
+      <webElementGuid>9ae7e7fa-8da1-4be1-81ab-9a884473bab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>00    dni04    (godz)22    (min)18    (sek)</value>
+      <webElementGuid>70182e42-3a1e-44cb-a2d1-953825d9d3ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/div[@class=&quot;happy-hours&quot;]/div[@class=&quot;happy-hours__counter&quot;]/div[@class=&quot;container flip-clock happy-hours__counter-countdown&quot;]</value>
+      <webElementGuid>ff04e685-136d-42a1-a6ec-e949aa1cc77b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div[3]/div</value>
+      <webElementGuid>d315c0ac-8c09-4006-b1a8-0159cd099b4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rezerwuj swoje wakacje w najlepszych cenach!'])[1]/following::div[5]</value>
+      <webElementGuid>d32e174d-2afb-4804-8a74-8a0b00e1ddbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HAPPYHOURS'])[1]/following::div[5]</value>
+      <webElementGuid>789b064e-3010-4e65-99b2-1f51b802a03c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>4af7c0a4-f497-48a3-abbf-0b5df0929458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '00    dni04    (godz)22    (min)18    (sek)' or . = '00    dni04    (godz)22    (min)18    (sek)')]</value>
+      <webElementGuid>92da1aed-e2e6-411f-9e4e-0b138045ba0f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

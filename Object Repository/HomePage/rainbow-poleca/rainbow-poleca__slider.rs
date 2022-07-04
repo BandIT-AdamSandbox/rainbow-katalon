@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rainbow-poleca__slider</name>
+   <tag></tag>
+   <elementGuidId>e3bccf16-ec5a-473d-bb6e-9a42424ffaec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/main/section[3]/div/div/div/div/div[1]/article</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[3]/div/div/div/div/div[1]/article[count(. | //article[@class = 'swiper-r__slides']) = count(//article[@class = 'swiper-r__slides'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>article</value>
+      <webElementGuid>0d4a5517-e8b4-487c-98dc-e121be799790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swiper-r__slides</value>
+      <webElementGuid>4393af02-b1f1-43b5-bd7e-1dbd4e1f354c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[3]/div/div/div/div/div[1]/article</value>
+      <webElementGuid>8dab1235-3543-42ed-936d-c22f97ac9319</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Kiedykolwiek-input</name>
+   <tag></tag>
+   <elementGuidId>63f2e778-04a0-43be-a5a1-1eb3c37b5606</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[2]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.filtry-input.filtry__element.filtry__element--kiedy > div.filtry-input__wrap > div.filtry-input__placeholder.r-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>377b1176-59ac-4bb6-9730-510ed1d51339</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filtry-input__placeholder r-input</value>
+      <webElementGuid>10458638-6f23-48cd-84a8-5721d022ffc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Kiedykolwiek
+    </value>
+      <webElementGuid>dfc3e6da-d79d-478f-a040-f14d4f7101b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;strona-glowna&quot;]/header[@class=&quot;header-banner header-banner__webp&quot;]/div[@class=&quot;wrap wrap-header&quot;]/div[@class=&quot;filtry filtry&quot;]/div[@class=&quot;filtry-input filtry__element filtry__element--kiedy&quot;]/div[@class=&quot;filtry-input__wrap&quot;]/div[@class=&quot;filtry-input__placeholder r-input&quot;]</value>
+      <webElementGuid>a4f9c23c-9d47-428a-b0b3-45affd47ad65</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[2]/div/div[3]</value>
+      <webElementGuid>d46016de-542c-4b44-8586-32e6b8b71e7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kiedy?'])[1]/following::div[2]</value>
+      <webElementGuid>9462a99c-c4f1-4650-a951-0f99ff64fa92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gdziekolwiek'])[1]/following::div[5]</value>
+      <webElementGuid>11848357-a8a7-4954-addb-fbea8f5c7da5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ile osób?'])[1]/preceding::div[1]</value>
+      <webElementGuid>8dea3c3e-2857-4b7a-9426-1deb23087f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skąd wyjazd?'])[1]/preceding::div[8]</value>
+      <webElementGuid>fd23ded1-8c0e-4814-89ff-57afbd1791af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Kiedykolwiek']/parent::*</value>
+      <webElementGuid>6ce3f061-4dce-40ec-abfa-54cef4949054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[3]</value>
+      <webElementGuid>a81a3a49-efe6-4a29-bad9-194e4f93cbc0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+      Kiedykolwiek
+    ' or . = '
+      Kiedykolwiek
+    ')]</value>
+      <webElementGuid>1960c951-6403-4e6f-9559-2327d5f55c79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

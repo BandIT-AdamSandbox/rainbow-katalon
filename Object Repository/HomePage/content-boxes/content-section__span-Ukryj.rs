@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>content-section__span-Ukryj</name>
+   <tag></tag>
+   <elementGuidId>0fcde435-e37a-4038-b373-165b2366b720</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/section[6]/div/div/div[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.seo-szukaj__pokaz-wiecej > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>91afe09b-4488-4b57-98c5-0ed15985c24e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ukryj</value>
+      <webElementGuid>bd97ca54-b021-4557-9c75-f77cd97e8111</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;strona-glowna&quot;]/section[@class=&quot;section section gray&quot;]/div[@class=&quot;wrap&quot;]/div[1]/div[@class=&quot;seo-szukaj__pokaz-wiecej&quot;]/span[1]</value>
+      <webElementGuid>369adc80-34ce-4c35-915a-dc0e156638f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/section[6]/div/div/div[3]/span</value>
+      <webElementGuid>fbb609dd-5fea-4c68-b822-de5a43eddc08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='biuro podróży'])[2]/following::span[1]</value>
+      <webElementGuid>6512190c-9b36-4be4-bcb1-05312b16f611</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Inclusive'])[1]/following::span[1]</value>
+      <webElementGuid>a0b8f1cb-d9e4-4af3-b854-da8e6c191a3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call center'])[1]/preceding::span[1]</value>
+      <webElementGuid>c50e0574-ff78-4344-9410-d11119f21605</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mail'])[1]/preceding::span[2]</value>
+      <webElementGuid>79ef058b-d320-48c3-9bd0-0630a59cd554</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ukryj']/parent::*</value>
+      <webElementGuid>7fda2e0c-5815-4193-a918-5a512e90236e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[6]/div/div/div[3]/span</value>
+      <webElementGuid>38503c93-6593-4ee7-8f4a-75b847aff0fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Ukryj' or . = 'Ukryj')]</value>
+      <webElementGuid>79ad786c-d132-43a5-ad0d-5321f3365c97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

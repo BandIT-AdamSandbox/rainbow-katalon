@@ -1,0 +1,20 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Happy Hours Outside Promo,Chrome 103.0.5060.53,,,2022-07-04 15:40:51,2022-07-04 15:41:23,"32,058s",FAILED
+,,,,,,,
+Test Cases/Happy Hours/happy-hours_promo-not-active,Chrome 103.0.5060.53,Happy hours is promotion that happens only during 13:00 and 15:00 - this test check if outside this range clock module is showing and verify text.,,2022-07-04 15:41:07,2022-07-04 15:41:23,"15,814s",FAILED
+"openBrowser("""")",Chrome 103.0.5060.53,,,2022-07-04 15:41:07,2022-07-04 15:41:09,"2,018s",PASSED
+maximizeWindow(),Chrome 103.0.5060.53,,,2022-07-04 15:41:09,2022-07-04 15:41:09,"0,138s",PASSED
+"navigateToUrl(""https://r.pl/happy-hours"")",Chrome 103.0.5060.53,,,2022-07-04 15:41:09,2022-07-04 15:41:13,"4,366s",PASSED
+"verifyElementText(findTestObject(""Object Repository/HappyHoursPage/do-startu-kolejnej-promocji-pozostao""), ""Do startu kolejnej promocji pozostało:"")",Chrome 103.0.5060.53,,,2022-07-04 15:41:13,2022-07-04 15:41:14,"0,414s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/HappyHoursPage/clock-module""), 1)",Chrome 103.0.5060.53,,,2022-07-04 15:41:14,2022-07-04 15:41:14,"0,590s",PASSED
+"verifyElementVisible(findTestObject(""Object Repository/HappyHoursPage/clock-module2""))",Chrome 103.0.5060.53,,,2022-07-04 15:41:14,2022-07-04 15:41:15,"0,285s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/HappyHoursPage/clock_1-block""), 1)",Chrome 103.0.5060.53,,,2022-07-04 15:41:15,2022-07-04 15:41:15,"0,709s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/HappyHoursPage/clock_2-block""), 1)",Chrome 103.0.5060.53,,,2022-07-04 15:41:15,2022-07-04 15:41:16,"0,386s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/HappyHoursPage/clock_3-block""), 1)",Chrome 103.0.5060.53,,,2022-07-04 15:41:16,2022-07-04 15:41:16,"0,620s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/HappyHoursPage/clock_4-block""), 1)",Chrome 103.0.5060.53,,,2022-07-04 15:41:16,2022-07-04 15:41:17,"0,279s",PASSED
+"verifyElementText(findTestObject(""Object Repository/HappyHoursPage/dni-string""), ""dni"")",Chrome 103.0.5060.53,,,2022-07-04 15:41:17,2022-07-04 15:41:17,"0,757s",PASSED
+"verifyElementText(findTestObject(""Object Repository/HappyHoursPage/godz-string""), ""(godz)"")",Chrome 103.0.5060.53,,,2022-07-04 15:41:17,2022-07-04 15:41:18,"0,416s",PASSED
+"verifyElementText(findTestObject(""Object Repository/HappyHoursPage/min-string""), ""(min)"")",Chrome 103.0.5060.53,,,2022-07-04 15:41:18,2022-07-04 15:41:18,"0,501s",PASSED
+"verifyElementText(findTestObject(""Object Repository/HappyHoursPage/sek-string""), ""(sek)"")",Chrome 103.0.5060.53,,,2022-07-04 15:41:18,2022-07-04 15:41:19,"0,323s",PASSED
+"verifyElementNotPresent(findTestObject(""HappyHoursPage/pokaz-wszystkie-oferty-link""), 1)",Chrome 103.0.5060.53,,,2022-07-04 15:41:19,2022-07-04 15:41:19,"0,724s",PASSED
+"verifyElementNotPresent(findTestObject(""HappyHoursPage/pierwszy-bloczek-hh""), 1)",Chrome 103.0.5060.53,,,2022-07-04 15:41:19,2022-07-04 15:41:23,"3,268s",FAILED

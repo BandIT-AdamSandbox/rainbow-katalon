@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>clock_1-block</name>
+   <tag></tag>
+   <elementGuidId>2f193e36-a15a-4a79-9e18-64214e8e5a7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.flip-clock__card.flip-card</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/div/div[3]/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a0c97afb-8d81-43cd-8b1c-84df2fc50351</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flip-clock__card flip-card</value>
+      <webElementGuid>55d1ac36-5291-43b5-8157-77983bf3578c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>00   </value>
+      <webElementGuid>350cdc6d-e6d0-472d-b7bd-eda4e7da7acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/div[@class=&quot;happy-hours&quot;]/div[@class=&quot;happy-hours__counter&quot;]/div[@class=&quot;container flip-clock happy-hours__counter-countdown&quot;]/span[@class=&quot;flip-clock__piece&quot;]/span[@class=&quot;flip-clock__card flip-card&quot;]</value>
+      <webElementGuid>6309ddfe-0bb2-4564-ad72-6631e43aed77</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/div/div[3]/div/span/span</value>
+      <webElementGuid>92562ccb-f93d-4ca6-b46e-2d93419ec57e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rezerwuj swoje wakacje w najlepszych cenach!'])[1]/following::span[2]</value>
+      <webElementGuid>b060e2e0-3b63-45fe-a60d-6bf90e169c8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HAPPYHOURS'])[1]/following::span[2]</value>
+      <webElementGuid>69347b88-0989-4db3-8a36-7ec1b7b17a67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dni'])[1]/preceding::span[1]</value>
+      <webElementGuid>d9d92b26-bbb1-4c97-bb1c-9f3db29336f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(godz)'])[1]/preceding::span[3]</value>
+      <webElementGuid>7336aa01-0cae-490c-a9ed-fe789794d688</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>71e92b36-959a-4c34-b9df-180f0e42ddcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '00   ' or . = '00   ')]</value>
+      <webElementGuid>8242f311-b8d7-4c31-acf2-0cf52e393da0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

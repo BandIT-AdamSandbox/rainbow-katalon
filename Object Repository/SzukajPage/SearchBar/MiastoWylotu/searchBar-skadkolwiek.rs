@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchBar-skadkolwiek</name>
+   <tag></tag>
+   <elementGuidId>f991ed24-ea99-4ba6-a8fb-15edb548fb2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[4]/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.filtry-input.filtry__element.filtry__element--skad.filtry-input--no-clearable > div.filtry-input__wrap > div.filtry-input__placeholder.r-input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>937e882d-3641-412b-bb62-e18c279166fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filtry-input__placeholder r-input</value>
+      <webElementGuid>e04f3bf5-50a4-44b6-816b-f80a388d59fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+      Skądkolwiek
+    </value>
+      <webElementGuid>2ac4f801-7fec-4b6d-8381-93224a7f2804</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/header[@class=&quot;header-banner header-banner__webp r-header-mobile--display&quot;]/div[@class=&quot;wrap wrap-header&quot;]/div[@class=&quot;filtry filtry&quot;]/div[@class=&quot;filtry-input filtry__element filtry__element--skad filtry-input--no-clearable&quot;]/div[@class=&quot;filtry-input__wrap&quot;]/div[@class=&quot;filtry-input__placeholder r-input&quot;]</value>
+      <webElementGuid>a52135b6-3637-4a17-a039-627ae64d4033</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[4]/div/div[3]</value>
+      <webElementGuid>e3421616-34f3-4c21-9527-2087ae19c551</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skąd wyjazd?'])[1]/following::div[2]</value>
+      <webElementGuid>f6d8ac28-c06c-44b6-ae3e-898da7fbc398</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ile osób?'])[1]/following::div[9]</value>
+      <webElementGuid>0e19386c-f30a-4adc-8868-4442acddf314</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Typ Transportu'])[1]/preceding::div[1]</value>
+      <webElementGuid>d2d21f3d-de5f-4515-ae19-4ab9b1888154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samolot'])[1]/preceding::div[4]</value>
+      <webElementGuid>4052722d-463e-4fa2-9b7a-c82e5763277a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Skądkolwiek']/parent::*</value>
+      <webElementGuid>c6ba986e-632b-443e-97e6-74d955f223b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[3]</value>
+      <webElementGuid>ad9245a7-c06d-401b-9a5e-f008f3bc381e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+      Skądkolwiek
+    ' or . = '
+      Skądkolwiek
+    ')]</value>
+      <webElementGuid>dcfb4fae-e1e8-400a-837a-03025d4fb616</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slider_Last-firstEle</name>
+   <tag></tag>
+   <elementGuidId>62492716-510b-494b-b2b8-797e704bc9b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[2]/div/div/div[2]/main/section[1]/div/div/div[2]/div/div[1]/article/div[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[1]/div/div/div[3]/div/div[1]/article/div[1][count(. | //div[@class = 'promocje__item first']) = count(//div[@class = 'promocje__item first'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[1]/div/div/div[3]/div/div[1]/article/div[1]</value>
+      <webElementGuid>52b47755-d348-4ce5-82e3-52e3a4fa90cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a4671a9f-45ad-4adc-ba59-c7d777889a9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>promocje__item first</value>
+      <webElementGuid>afba7c88-86a8-498b-8352-975d1bbb5365</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

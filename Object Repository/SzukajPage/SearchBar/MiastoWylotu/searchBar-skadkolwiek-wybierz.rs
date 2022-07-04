@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>searchBar-skadkolwiek-wybierz</name>
+   <tag></tag>
+   <elementGuidId>0517bad9-7f01-4bb2-9b2a-227a31bc06e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[4]/div[2]/div[3]/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ba8a16d5-e6e1-4344-b143-451938900fde</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>filtry-panel__footer-button r-button</value>
+      <webElementGuid>05372d62-1e1b-4d19-aef1-0a6a5cbcd610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+          wybierz
+        </value>
+      <webElementGuid>0d8c4e0f-0c5f-4b01-be88-d08a5493dac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/header[@class=&quot;header-banner header-banner__webp r-header-mobile--display&quot;]/div[@class=&quot;wrap wrap-header&quot;]/div[@class=&quot;filtry filtry&quot;]/div[@class=&quot;filtry-input filtry__element filtry__element--skad&quot;]/div[@class=&quot;filtry-panel filtry-panel--skad&quot;]/div[@class=&quot;filtry-panel__footer&quot;]/div[@class=&quot;filtry-panel__footer-buttons&quot;]/button[@class=&quot;filtry-panel__footer-button r-button&quot;]</value>
+      <webElementGuid>ab8592ae-5c1f-4581-8227-89c0caf142e4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[4]/div[2]/div[3]/div/button[2]</value>
+      <webElementGuid>0ce812ed-933b-4227-b36a-05a4e2849c48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='wyczyść'])[1]/following::button[1]</value>
+      <webElementGuid>54b8b293-81aa-4f45-b441-a6d208768ab8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wrocław'])[1]/following::button[2]</value>
+      <webElementGuid>08f6239d-92cd-4196-9b6d-7c84ba13697e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Typ Transportu'])[1]/preceding::button[1]</value>
+      <webElementGuid>36f43867-5c6e-4512-8f65-2344e1e71927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samolot'])[1]/preceding::button[1]</value>
+      <webElementGuid>0ecdc03c-056e-4699-8317-7340a316140a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='wybierz']/parent::*</value>
+      <webElementGuid>c7e1efeb-5618-403c-b91b-10ea63e9ee59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]</value>
+      <webElementGuid>11972a2e-c768-4ab4-a858-3d133ee859a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '
+          wybierz
+        ' or . = '
+          wybierz
+        ')]</value>
+      <webElementGuid>a0aea0cb-faab-4a58-b89b-5b7fe4f0ec95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
