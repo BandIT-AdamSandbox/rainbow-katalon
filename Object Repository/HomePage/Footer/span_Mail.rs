@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mail</name>
+   <tag></tag>
+   <elementGuidId>c8efc48d-145c-4c09-8af2-346ee195784d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/footer/div/div/div/div[2]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.promises__block.promises__block--with-button > div.promises__text--large > span.promises__text--large--header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4a90265a-85b0-4d1d-87f6-f4116e5613c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>promises__text--large--header</value>
+      <webElementGuid>b5c8e1a9-551d-4bf4-9c20-b455330208c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mail</value>
+      <webElementGuid>cf487f0c-e228-439e-8a5f-093d017bb148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;footer__background&quot;]/footer[@class=&quot;footer&quot;]/div[@class=&quot;footer__box-top&quot;]/div[@class=&quot;promises__background&quot;]/div[@class=&quot;promises&quot;]/div[@class=&quot;promises__block promises__block--with-button&quot;]/div[@class=&quot;promises__text--large&quot;]/span[@class=&quot;promises__text--large--header&quot;]</value>
+      <webElementGuid>92a0ab57-aaa0-4288-b2be-e005d7e16226</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/footer/div/div/div/div[2]/div/span</value>
+      <webElementGuid>47fc22e2-39c8-4369-a844-ceabae164ebf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call center'])[1]/following::span[1]</value>
+      <webElementGuid>8297fb01-1f43-42b2-9563-d45c38a67ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pokaż więcej'])[1]/following::span[2]</value>
+      <webElementGuid>d2c135a4-342e-411c-9635-f36eb3fd2bb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='callcenter@r.pl'])[1]/preceding::span[1]</value>
+      <webElementGuid>daa6a569-3338-4ee7-bb84-fee2df95f241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Biura Rainbow'])[1]/preceding::span[1]</value>
+      <webElementGuid>dff37639-1fbb-4ab0-a48b-625bb06990c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mail']/parent::*</value>
+      <webElementGuid>309454ee-c9ef-44bb-aef5-ebcd53d6914b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/span</value>
+      <webElementGuid>ed14acb0-c446-4c34-bbae-3ddd93930bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mail' or . = 'Mail')]</value>
+      <webElementGuid>3aff50a8-63d7-4895-a054-e5da33377752</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

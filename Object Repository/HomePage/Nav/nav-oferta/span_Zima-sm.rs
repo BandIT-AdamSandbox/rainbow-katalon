@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Zima-sm</name>
+   <tag></tag>
+   <elementGuidId>cc053b63-3d7b-4e8e-ad4c-9fe7f4f69482</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainHeader']/div/div/header/nav/div/div/div/div/div[2]/div/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fc388012-b8fd-4f7f-80ae-7d894ae3b5b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop__kafelek-text</value>
+      <webElementGuid>8261ab14-1180-40b6-87bf-9eb3c09fd619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zima 2022/2023 Second Minute</value>
+      <webElementGuid>e22db84e-94d2-428e-afca-6560ca700309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHeader&quot;)/div[@class=&quot;header__desktop&quot;]/div[@class=&quot;desktop__header-position&quot;]/header[@class=&quot;desktop__container-position&quot;]/nav[@class=&quot;desktop__container-kategorie&quot;]/div[1]/div[@class=&quot;desktop__podkategorie-wrapper&quot;]/div[1]/div[@class=&quot;desktop__podkategorie-rzad&quot;]/div[2]/div[1]/a[@class=&quot;footer-men__siteMap__link desktop&quot;]/div[@class=&quot;desktop__kafelek&quot;]/span[@class=&quot;desktop__kafelek-text&quot;]</value>
+      <webElementGuid>421355db-bc3d-4396-9906-32cc1dbda7a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainHeader']/div/div/header/nav/div/div/div/div/div[2]/div/a/div/span</value>
+      <webElementGuid>c0e1ab44-a9bb-433d-9f4a-1499d7fb2289</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lato 2022'])[1]/following::span[1]</value>
+      <webElementGuid>01ddfeaf-652c-416d-8558-e9373a4ebdff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Oferta'])[1]/following::span[2]</value>
+      <webElementGuid>0eb33756-755f-4e9e-9ba1-eac3a9b2ad52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wypoczynek i zwiedzanie'])[1]/preceding::span[1]</value>
+      <webElementGuid>63349a96-1894-4457-9881-b6bf55e5d7cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wycieczki objazdowe'])[1]/preceding::span[2]</value>
+      <webElementGuid>ee80a0d5-01eb-434f-b535-d60d7d4d577f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zima 2022/2023 Second Minute']/parent::*</value>
+      <webElementGuid>bf3f9d48-f68b-43cf-a58b-e935dceec04e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/div/span</value>
+      <webElementGuid>5deba4ce-7f53-41f9-8468-4b8302f1b82a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Zima 2022/2023 Second Minute' or . = 'Zima 2022/2023 Second Minute')]</value>
+      <webElementGuid>92635ee6-a401-49aa-8a64-2b980163ee8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

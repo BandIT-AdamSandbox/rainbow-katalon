@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Numer telefonu</name>
+   <tag></tag>
+   <elementGuidId>d6e35e5f-6739-450b-a1ad-b5f94738eeca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainHeader']/div/div/header/div[2]/a[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.desktop__navigation-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>17047087-b39e-43bd-997c-764eda764bf1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop__navigation-text</value>
+      <webElementGuid>cd1bb523-4ed4-4aa6-ae7c-7427732293c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>42 680 38 51</value>
+      <webElementGuid>d4869f79-f00a-439a-b212-d1c6aa8f84bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHeader&quot;)/div[@class=&quot;header__desktop&quot;]/div[@class=&quot;desktop__header-position&quot;]/header[@class=&quot;desktop__container-position&quot;]/div[@class=&quot;desktop__navigation-container&quot;]/a[@class=&quot;footer-men__siteMap__link&quot;]/div[@class=&quot;desktop__navigation-wrapper&quot;]/p[@class=&quot;desktop__navigation-text&quot;]</value>
+      <webElementGuid>b9f3af9f-e27d-48ac-8f54-a96957ea2bc5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainHeader']/div/div/header/div[2]/a[2]/div/p</value>
+      <webElementGuid>bb65cd14-cd36-4a30-ba86-371a8cdb0a28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::p[1]</value>
+      <webElementGuid>16adea8b-96ad-4305-910c-4c0d94a61504</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wycieczki fakultatywne'])[2]/following::p[1]</value>
+      <webElementGuid>4116e4cf-75a3-4c49-9ae2-53ef3bdb7142</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dokąd chcesz jechać?'])[1]/preceding::p[1]</value>
+      <webElementGuid>8da045d6-86e3-4029-9622-3d41842ab000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gdziekolwiek'])[1]/preceding::p[1]</value>
+      <webElementGuid>c1204916-3d62-4001-b613-682537c335c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='42 680 38 51']/parent::*</value>
+      <webElementGuid>72704bd6-44e7-4614-822e-544d8c943340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>2a6907f2-417f-4a15-8291-ad14d89bce15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '42 680 38 51' or . = '42 680 38 51')]</value>
+      <webElementGuid>c83f6bd2-17a9-4840-b787-6dff5baa558c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

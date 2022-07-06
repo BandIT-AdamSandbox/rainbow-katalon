@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Super roda</name>
+   <tag></tag>
+   <elementGuidId>977ea045-57f2-4006-ac99-fbb8f7363932</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainHeader']/div/div/header/nav/div[2]/div/div[2]/div/div/div/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>247bd1c3-0b32-490b-8c26-f90f34800ab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop__kafelek-text</value>
+      <webElementGuid>2381f925-56f8-4587-aaaf-6731f8be7f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Super Środa</value>
+      <webElementGuid>306391bd-c59a-434d-9887-b64e4bea26ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHeader&quot;)/div[@class=&quot;header__desktop&quot;]/div[@class=&quot;desktop__header-position&quot;]/header[@class=&quot;desktop__container-position&quot;]/nav[@class=&quot;desktop__container-kategorie&quot;]/div[2]/div[@class=&quot;desktop__podkategorie-wrapper&quot;]/div[2]/div[@class=&quot;desktop__podkategorie-rzad&quot;]/div[1]/div[1]/a[@class=&quot;footer-men__siteMap__link desktop&quot;]/div[@class=&quot;desktop__kafelek&quot;]/span[@class=&quot;desktop__kafelek-text&quot;]</value>
+      <webElementGuid>2ef5548d-75f6-4680-ba70-5c74bb5e0255</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainHeader']/div/div/header/nav/div[2]/div/div[2]/div/div/div/a/div/span</value>
+      <webElementGuid>33d52782-a182-4be9-8102-c1999c17ab55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Happy Hours'])[1]/following::span[1]</value>
+      <webElementGuid>d5eeaa60-78b6-4b4a-b402-03c9d13562b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Topniejące Rabaty'])[1]/following::span[2]</value>
+      <webElementGuid>750aff22-70ac-4f55-8202-b100b9615d33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Końcóweczka'])[1]/preceding::span[1]</value>
+      <webElementGuid>e81212b8-25ca-4a89-a42e-52ee186f96db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Minute'])[1]/preceding::span[2]</value>
+      <webElementGuid>60d2a947-d308-43f3-8aaf-e9dee89d8aa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Super Środa']/parent::*</value>
+      <webElementGuid>e802f759-61f4-4ed0-be72-ceb21cfab162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/a/div/span</value>
+      <webElementGuid>8a3624d2-a21b-4a0e-82fe-c39508f951ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Super Środa' or . = 'Super Środa')]</value>
+      <webElementGuid>ca81db1e-a834-43c7-b16d-ef48beae9416</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Parking przy lotnisku</name>
+   <tag></tag>
+   <elementGuidId>6bde3286-d0e4-4b36-a632-71b1290b3451</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainHeader']/div/div/header/nav/div/div/div[4]/div/div/div/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2e885c36-b129-41d1-b5ff-0f8c71c750c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop__kafelek-text</value>
+      <webElementGuid>5bb1d1bb-2c6d-4575-8c2e-88c058a9cf06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Parking przy lotnisku</value>
+      <webElementGuid>70852065-12c9-4619-a0c4-8fe6065e3898</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHeader&quot;)/div[@class=&quot;header__desktop&quot;]/div[@class=&quot;desktop__header-position&quot;]/header[@class=&quot;desktop__container-position&quot;]/nav[@class=&quot;desktop__container-kategorie&quot;]/div[1]/div[@class=&quot;desktop__podkategorie-wrapper&quot;]/div[4]/div[@class=&quot;desktop__podkategorie-rzad&quot;]/div[1]/div[1]/a[@class=&quot;footer-men__siteMap__link desktop&quot;]/div[@class=&quot;desktop__kafelek&quot;]/span[@class=&quot;desktop__kafelek-text&quot;]</value>
+      <webElementGuid>d594e371-5a99-459a-8d62-4eec53ec6d44</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainHeader']/div/div/header/nav/div/div/div[4]/div/div/div/a/div/span</value>
+      <webElementGuid>650acce0-eb83-4283-bf29-4c0fcec0bdbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Przelot Dreamlinerem'])[1]/following::span[1]</value>
+      <webElementGuid>bc09fbb6-60bb-4af6-babc-1b0b0c76c1af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wycieczki fakultatywne'])[1]/following::span[2]</value>
+      <webElementGuid>4fcb5b49-7607-4523-8d79-dec91648a57b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ubezpieczenia podróżne'])[1]/preceding::span[1]</value>
+      <webElementGuid>55b896d1-c0b4-471c-be33-87db016c07ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wszystkie kierunki'])[1]/preceding::span[2]</value>
+      <webElementGuid>fdd5eb38-c6ff-4ffd-aab3-399f7616fb9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Parking przy lotnisku']/parent::*</value>
+      <webElementGuid>53cf466b-11b3-49e9-bf64-0aced1abaf58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/a/div/span</value>
+      <webElementGuid>1d9690e2-e5cc-471d-ad36-3bdbc1a2f39e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Parking przy lotnisku' or . = 'Parking przy lotnisku')]</value>
+      <webElementGuid>411588fa-6956-4c6e-a5e6-cd08d7451ea9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

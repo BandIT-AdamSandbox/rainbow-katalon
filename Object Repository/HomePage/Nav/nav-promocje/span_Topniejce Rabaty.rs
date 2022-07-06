@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Topniejce Rabaty</name>
+   <tag></tag>
+   <elementGuidId>d791fbb5-68e6-45ce-a482-7f6af9d6acc7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainHeader']/div/div/header/nav/div[2]/div/div/div/div/div/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c46576a6-7420-4f87-ab8c-42816e9260ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop__kafelek-text</value>
+      <webElementGuid>4259c50a-a714-4426-9822-9e212ce7ae3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Topniejące Rabaty</value>
+      <webElementGuid>fad81f4c-8d2c-4814-9d3a-cb5896407a73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHeader&quot;)/div[@class=&quot;header__desktop&quot;]/div[@class=&quot;desktop__header-position&quot;]/header[@class=&quot;desktop__container-position&quot;]/nav[@class=&quot;desktop__container-kategorie&quot;]/div[2]/div[@class=&quot;desktop__podkategorie-wrapper&quot;]/div[1]/div[@class=&quot;desktop__podkategorie-rzad&quot;]/div[1]/div[1]/a[@class=&quot;footer-men__siteMap__link desktop&quot;]/div[@class=&quot;desktop__kafelek&quot;]/span[@class=&quot;desktop__kafelek-text&quot;]</value>
+      <webElementGuid>9aa9e981-dd96-4c8a-8a6c-23a37636cc88</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainHeader']/div/div/header/nav/div[2]/div/div/div/div/div/a/div/span</value>
+      <webElementGuid>9b0dc49b-98a4-42fb-be68-3c088370ab9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promocje'])[1]/following::span[1]</value>
+      <webElementGuid>2442014c-2406-4338-866f-a0419d0b7d31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wszystkie kierunki'])[1]/following::span[2]</value>
+      <webElementGuid>90daa71f-2723-4cdb-821d-b7893cd7f723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Happy Hours'])[1]/preceding::span[1]</value>
+      <webElementGuid>51c02520-0bc8-4f3a-b1d7-26f88a77e0bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Super Środa'])[1]/preceding::span[2]</value>
+      <webElementGuid>59ad2179-d099-4029-95bb-17b73661cda3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Topniejące Rabaty']/parent::*</value>
+      <webElementGuid>a1666013-939d-4829-8625-06da809f5f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/a/div/span</value>
+      <webElementGuid>de1463d4-4217-42bb-81a5-f5d520762ba2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Topniejące Rabaty' or . = 'Topniejące Rabaty')]</value>
+      <webElementGuid>db39c98a-33f9-43e5-92d9-9e12ae95fa60</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

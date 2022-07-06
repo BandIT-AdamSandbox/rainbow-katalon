@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>test-case-10</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>e86e0e6e-78c7-41b0-acdf-744266d9b371</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>https%3A%2F%2Fr.pl%2Fgrecja</data>
+   <data>https%3A%2F%2Fr.pl%2Fturcja</data>
+   <data>https%3A%2F%2Fr.pl%2Fhiszpania</data>
+   <data>https%3A%2F%2Fr.pl%2Fdominikana</data>
+   <data>https%3A%2F%2Fr.pl%2Fkuba</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>url</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Hotele White Olive</name>
+   <tag></tag>
+   <elementGuidId>48709951-36fd-49fc-beb8-a3f5fbdd0a7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainHeader']/div/div/header/nav/div/div/div[3]/div/div[3]/div/a/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>db8f3c14-b391-4826-a5bc-b9946ea02047</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desktop__kafelek-text</value>
+      <webElementGuid>03c40801-0b49-49f3-82d6-9b185c19fdae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hotele White Olive</value>
+      <webElementGuid>264cd8ab-63af-4153-96d5-3d0b47c6c9e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainHeader&quot;)/div[@class=&quot;header__desktop&quot;]/div[@class=&quot;desktop__header-position&quot;]/header[@class=&quot;desktop__container-position&quot;]/nav[@class=&quot;desktop__container-kategorie&quot;]/div[1]/div[@class=&quot;desktop__podkategorie-wrapper&quot;]/div[3]/div[@class=&quot;desktop__podkategorie-rzad&quot;]/div[3]/div[1]/a[@class=&quot;footer-men__siteMap__link desktop&quot;]/div[@class=&quot;desktop__kafelek&quot;]/span[@class=&quot;desktop__kafelek-text&quot;]</value>
+      <webElementGuid>6872b1b3-ecb0-41d1-90c7-ff6ed5d12e2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainHeader']/div/div/header/nav/div/div/div[3]/div/div[3]/div/a/div/span</value>
+      <webElementGuid>a78aed3f-bc8e-432d-8339-5248ecf403ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City Break'])[1]/following::span[1]</value>
+      <webElementGuid>c4501251-ec77-4b27-bdff-e3df745c1717</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Krótki urlop'])[1]/following::span[2]</value>
+      <webElementGuid>47700280-caf7-4315-b0ae-f6ecd522eb58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wycieczki fakultatywne'])[1]/preceding::span[1]</value>
+      <webElementGuid>eb4fd379-8c48-4bff-8759-72b5f5712a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Przelot Dreamlinerem'])[1]/preceding::span[2]</value>
+      <webElementGuid>73089674-2dc5-460c-a3d2-2b9ef132c275</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hotele White Olive']/parent::*</value>
+      <webElementGuid>db6cec26-ff42-4b06-b5d0-80dd0a87baf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[3]/div/a/div/span</value>
+      <webElementGuid>2e9637cb-32f2-4f47-abb7-bf3ccdd07865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Hotele White Olive' or . = 'Hotele White Olive')]</value>
+      <webElementGuid>4726d860-2372-4682-a0b5-566c8b2d7e46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

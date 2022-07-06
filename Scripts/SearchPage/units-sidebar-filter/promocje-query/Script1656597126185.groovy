@@ -36,30 +36,66 @@ WebUI.waitForElementClickable(findTestObject('SzukajPage/SidebarFilters/filter13
 CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-1'), timeout, 
     12, promocje[0])
 
-if(WebUI.verifyElementPresent(findTestObject('SzukajPage/SidebarFilters/filter13-2'), 0, FailureHandling.OPTIONAL)) {
+if(WebUI.getText(findTestObject('SzukajPage/SidebarFilters/filter13-2 - span')) == 'Happy Hours') {
 	CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-2'), timeout,
 	    12, promocje[1])
+	
+	CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-3'), timeout,
+		12, promocje[2])
+	
+	CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-4'), timeout,
+		12, promocje[3])
+	
+	CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-5'), timeout,
+		12, promocje[4])
+	
+	CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-6'), timeout,
+		12, promocje[5])
+	
+	CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-7'), timeout,
+		12, promocje[6])
+	
+	CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-8'), timeout,
+		12, promocje[7])
 } else {
-	KeywordUtil.markWarning('Filtr bocznyh Happy Hours dla Promocje jest nieobecny')
+	println('Filtr bocznyh Happy Hours dla Promocje jest nieobecny')
+	
+	CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-2'), timeout,
+		12, promocje[2])
+	
+	CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-3'), timeout,
+		12, promocje[3])
+	
+	CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-4'), timeout,
+		12, promocje[4])
+	
+	CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-5'), timeout,
+		12, promocje[5])
+	
+	CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-6'), timeout,
+		12, promocje[6])
+	
+	CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-7'), timeout,
+		12, promocje[7])
 }
 
-CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-3'), timeout, 
-    12, promocje[2])
-
-CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-4'), timeout, 
-    12, promocje[3])
-
-CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-5'), timeout, 
-    12, promocje[4])
-
-CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-6'), timeout, 
-    12, promocje[5])
-
-CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-7'), timeout, 
-    12, promocje[6])
-
-CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-8'), timeout, 
-    12, promocje[7])
+//CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-3'), timeout, 
+//    12, promocje[2])
+//
+//CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-4'), timeout, 
+//    12, promocje[3])
+//
+//CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-5'), timeout, 
+//    12, promocje[4])
+//
+//CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-6'), timeout, 
+//    12, promocje[5])
+//
+//CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-7'), timeout, 
+//    12, promocje[6])
+//
+//CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter13-8'), timeout, 
+//    12, promocje[7])
 
 WebUI.closeBrowser()
 

@@ -28,6 +28,96 @@
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/SeoContentSearchPage/zamknijCiastka_neighbor.png"
+    },
+        {
+      "approved": true,
+      "testObjectId": "Object Repository/home-page/slider-1/slider-tab-1",
+      "brokenLocator": "li.tabs__tab:nth-child(1)",
+      "brokenLocatorMethod": "CSS",
+      "proposedLocator": "//*[@id\u003d\"carusel\"]/div/ul/li[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/home-page/slider-1/slider-tab-1_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/home-page/slider-1/slides-tab-1/slide2",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.promocje:nth-child(1) div.promocje__item:nth-child(2)",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/home-page/slider-1/slides-tab-1/slide2_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/home-page/slider-1/slides-tab-1/slide3",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.promocje:nth-child(1) div.promocje__item:nth-child(3)",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/home-page/slider-1/slides-tab-1/slide3_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/home-page/slider-1/slides-tab-1/slide4",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.promocje:nth-child(1) div.promocje__item:nth-child(4)",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/home-page/slider-1/slides-tab-1/slide4_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/home-page/slider-1/slides-tab-1/slide5",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.promocje:nth-child(1) div.promocje__item:nth-child(5)",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/home-page/slider-1/slides-tab-1/slide5_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/home-page/slider-1/slides-tab-1/slide6",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.promocje:nth-child(1) div.promocje__item:nth-child(6)",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/home-page/slider-1/slides-tab-1/slide6_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/home-page/slider-1/slides-tab-1/slide7",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "div.promocje:nth-child(1) div.promocje__item:nth-child(7)",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/home-page/slider-1/slides-tab-1/slide7_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/home-page/slider-1/slider-tab-2",
+      "brokenLocator": "//div[@id\u003d\u0027carusel\u0027]/div/ul/li[2]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "li.tabs__tab:nth-child(2)",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/home-page/slider-1/slider-tab-2_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/home-page/slider-1/slider-tab-3",
+      "brokenLocator": "//*[@id\u003d\"carusel\"]/div/ul/li[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "li.tabs__tab:nth-child(3)",
+      "proposedLocatorMethod": "CSS",
+      "recoveryMethod": "CSS",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/home-page/slider-1/slider-tab-3_CSS.png"
     }
   ]
 }

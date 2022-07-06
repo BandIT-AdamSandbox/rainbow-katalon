@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_btn</name>
+   <tag></tag>
+   <elementGuidId>c23cde22-7895-42be-9bec-97260c272029</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/footer/div/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.newsletter__add-email--button.yellow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ea755233-527d-4905-ab5f-f9fcf6a35a53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>newsletter__add-email--button yellow</value>
+      <webElementGuid>b7e00612-1c5d-4b23-beaa-640481f6aace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> ZAPISZ SIĘ </value>
+      <webElementGuid>5a065304-238d-4572-928c-412662c1de98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;footer__background&quot;]/footer[@class=&quot;footer&quot;]/div[@class=&quot;footer__box-top&quot;]/div[@class=&quot;newsletter&quot;]/div[@class=&quot;newsletter__add-email&quot;]/button[@class=&quot;newsletter__add-email--button yellow&quot;]</value>
+      <webElementGuid>43d9fc62-5cd6-4844-b09f-3e294cbdb9cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/footer/div/div[2]/div/button</value>
+      <webElementGuid>e459f2f6-b585-4a5b-a401-a33969f6308d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZAPISZ SIĘ NA NEWSLETTER:'])[1]/following::button[1]</value>
+      <webElementGuid>2fe13ac9-38a7-4eb7-bcd5-ec1dab3edaa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jeśli chcesz jako pierwszy otrzymać najlepsze oferty wprost na Twoją skrzynkę,'])[1]/following::button[1]</value>
+      <webElementGuid>6bcc2587-8c7e-46aa-a98d-18c18674f626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Administratorem Twoich danych jest RAINBOW TOURS SA'])[1]/preceding::button[1]</value>
+      <webElementGuid>d4e4cdc5-d2a1-49e1-8164-24d4e09fa11a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ZAPISZ SIĘ']/parent::*</value>
+      <webElementGuid>7ef941f7-74d3-4ca2-ab49-6d4175e12af3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>7aa49433-0bbf-4d20-bcc9-2a16534b7d7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' ZAPISZ SIĘ ' or . = ' ZAPISZ SIĘ ')]</value>
+      <webElementGuid>12abdbcb-c468-4dff-a5a0-107d7cf13194</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

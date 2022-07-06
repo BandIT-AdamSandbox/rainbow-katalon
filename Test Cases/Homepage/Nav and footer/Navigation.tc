@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Navigation</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5e1b3734-d60c-427a-b225-64526996bf29</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fca614c7-a22e-4a67-a8a8-d346b28d0db7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>3</defaultValue>
+      <description></description>
+      <id>fca614c7-a22e-4a67-a8a8-d346b28d0db7</id>
+      <masked>false</masked>
+      <name>timeout</name>
+   </variable>
+</TestCaseEntity>

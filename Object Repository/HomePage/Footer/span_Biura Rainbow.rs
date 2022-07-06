@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Biura Rainbow</name>
+   <tag></tag>
+   <elementGuidId>2eb6d747-451a-43fa-af55-afc7fc67668f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/footer/div/div/div/div[3]/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>69268fe8-22bf-4ad5-af72-da8f0af9a08a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>promises__text--large--header</value>
+      <webElementGuid>346c1657-412b-4ea5-87ee-84151292c7f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Biura Rainbow</value>
+      <webElementGuid>b8b24cbf-5cbe-42e4-a194-8c8cca008d37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;footer__background&quot;]/footer[@class=&quot;footer&quot;]/div[@class=&quot;footer__box-top&quot;]/div[@class=&quot;promises__background&quot;]/div[@class=&quot;promises&quot;]/div[@class=&quot;promises__block promises__block--with-button&quot;]/div[@class=&quot;promises__text--large&quot;]/span[@class=&quot;promises__text--large--header&quot;]</value>
+      <webElementGuid>43fb554c-a719-41f3-9ed3-b6ec7527b790</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/footer/div/div/div/div[3]/div/span</value>
+      <webElementGuid>32055ca0-fe4c-46ed-b065-1f87381f976c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='callcenter@r.pl'])[1]/following::span[1]</value>
+      <webElementGuid>1fb3fb61-b156-4870-91c1-6f4c9f352b8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mail'])[1]/following::span[1]</value>
+      <webElementGuid>d43d57af-48a4-4d0f-98a2-d9a3c6256918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jeśli chcesz jako pierwszy otrzymać najlepsze oferty wprost na Twoją skrzynkę,'])[1]/preceding::span[1]</value>
+      <webElementGuid>e704de30-673b-48a7-9c30-f93e8e1329ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZAPISZ SIĘ NA NEWSLETTER:'])[1]/preceding::span[2]</value>
+      <webElementGuid>0e9104b8-be2a-4bd4-adad-811fa8926d23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Biura Rainbow']/parent::*</value>
+      <webElementGuid>c6b9837b-78a9-416b-977f-7957c167e5d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/span</value>
+      <webElementGuid>0c098996-0395-4841-9d00-b78724a4f7e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Biura Rainbow' or . = 'Biura Rainbow')]</value>
+      <webElementGuid>b6383d8c-31ad-4a1e-9c48-b1b5560cc54f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

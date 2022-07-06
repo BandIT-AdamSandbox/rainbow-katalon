@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Call center</name>
+   <tag></tag>
+   <elementGuidId>8356e6b9-e68b-4b29-9e99-7afbc33be98f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[4]/footer/div/div/div/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.promises__text--large--header</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5207227b-6506-4d57-a8a8-7ab34c3d47db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>promises__text--large--header</value>
+      <webElementGuid>2754169a-fcd0-4a50-986f-b4e66e91ff96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Call center</value>
+      <webElementGuid>83bbf23f-62b2-46d6-bb30-d3aae1d27d51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;footer__background&quot;]/footer[@class=&quot;footer&quot;]/div[@class=&quot;footer__box-top&quot;]/div[@class=&quot;promises__background&quot;]/div[@class=&quot;promises&quot;]/div[@class=&quot;promises__block&quot;]/div[@class=&quot;promises__text--large&quot;]/span[@class=&quot;promises__text--large--header&quot;]</value>
+      <webElementGuid>9b4faf7f-c99c-4aab-8ec8-d0316f6f7003</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[4]/footer/div/div/div/div/div/span</value>
+      <webElementGuid>248cc283-77fd-4d21-82e5-fe11495f8d42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pokaż więcej'])[1]/following::span[1]</value>
+      <webElementGuid>ba50aaaf-4fdc-425f-8f1f-cd10fa31c225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='biuro podróży'])[2]/following::span[2]</value>
+      <webElementGuid>406f80c5-3e4f-4049-b48e-dda6cb79e396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mail'])[1]/preceding::span[1]</value>
+      <webElementGuid>bb9bc65d-c928-4c76-a6ec-2712e05530fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='callcenter@r.pl'])[1]/preceding::span[2]</value>
+      <webElementGuid>a45d7153-00eb-4ee8-990f-2a05e7ef6c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Call center']/parent::*</value>
+      <webElementGuid>b7d0289f-0230-4348-ac94-c6fe04a100ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//footer/div/div/div/div/div/span</value>
+      <webElementGuid>3ff68162-a133-4adc-ae16-92eddc992b6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Call center' or . = 'Call center')]</value>
+      <webElementGuid>15df87a7-7b17-4abd-84e2-470fc3477536</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

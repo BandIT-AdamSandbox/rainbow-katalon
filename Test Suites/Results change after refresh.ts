@@ -1,33 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Check seo</name>
+   <name>Results change after refresh</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
-   <numberOfRerun>1</numberOfRerun>
+   <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>8f083d87-b3f3-49f5-81a6-26ff330fe6c6</testSuiteGuid>
+   <testSuiteGuid>7592be95-9ea8-4d6a-989c-fca8643127e1</testSuiteGuid>
    <testCaseLink>
-      <guid>fb4e8d23-60cb-4ac7-b4ce-efd25f90cd3b</guid>
+      <guid>42f08624-0648-4152-8ab4-103a6159eb33</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SEO/Check seo boxes</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <testCaseId>Test Cases/10-popularne-kierunki-sprawdzenie-ilości-ofert-bez-zmiany-query</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>0afc2926-615a-456e-af71-237132f3468b</variableId>
+         <variableId>e78df973-4ec6-4fca-ae19-55d16284eed1</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>2279c644-bafc-4539-a258-0d6b61a367f6</variableId>
+         <variableId>405c46cc-5d9b-4205-8a59-2e2c2d49420b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5ffa4fe3-1294-417f-b5e2-b5f3081f6c58</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
