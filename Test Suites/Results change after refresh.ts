@@ -8,14 +8,14 @@
    <numberOfRerun>3</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
-   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>7592be95-9ea8-4d6a-989c-fca8643127e1</testSuiteGuid>
    <testCaseLink>
       <guid>42f08624-0648-4152-8ab4-103a6159eb33</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/10-popularne-kierunki-sprawdzenie-ilości-ofert-bez-zmiany-query</testCaseId>
+      <testCaseId>Test Cases/10-popularne-kierunki-sprawdzenie-ilosci-ofert-bez-zmiany-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description>Ilość ofert na listingu - różne wyniki ilościowe przy kolejnych zapytaniach bez zmiany parametrów.
 Chodzi o sprawdzenie czy kolejne zapytania po bloczki np.. na topowych kierunkach (r.pl/grecja, r.pl/turcja, r.pl/hiszpania, r.pl/kuba, r.pl/dominikana) bez zmiany parametrów zwracają tą samą ilość wyników w krótkich interwałach czasu (2 sekundy).</description>
-   <name>10-popularne-kierunki-sprawdzenie-ilości-ofert-bez-zmiany-query</name>
+   <name>10-popularne-kierunki-sprawdzenie-ilosci-ofert-bez-zmiany-query</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>a7d45056-951a-491e-b7c8-402fe6f08898</testCaseGuid>
