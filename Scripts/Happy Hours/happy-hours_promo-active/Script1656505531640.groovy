@@ -24,7 +24,7 @@ WebUI.navigateToUrl('https://r.pl/happy-hours')
 
 WebUI.maximizeWindow()
 
-WebUI.click(findTestObject('HappyHoursPage/zamknijCiastka'))
+//WebUI.click(findTestObject('HappyHoursPage/zamknijCiastka'))
 
 WebUI.verifyElementNotPresent(findTestObject('HappyHoursPage/clock-module2'), 1)
 
