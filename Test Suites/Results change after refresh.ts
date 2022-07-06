@@ -16,6 +16,15 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/10-popularne-kierunki-sprawdzenie-ilosci-ofert-bez-zmiany-query</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9b54d07b-aee6-4f74-b4a2-2a0cc1abfc96</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/test-case-10</testDataId>
+      </testDataLink>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -30,9 +39,9 @@
          <variableId>405c46cc-5d9b-4205-8a59-2e2c2d49420b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>9b54d07b-aee6-4f74-b4a2-2a0cc1abfc96</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>url</value>
          <variableId>5ffa4fe3-1294-417f-b5e2-b5f3081f6c58</variableId>
       </variableLink>
    </testCaseLink>

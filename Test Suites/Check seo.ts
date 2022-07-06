@@ -16,17 +16,26 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/SEO/Check seo boxes</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>32586521-2655-48a0-9709-ef2520f59674</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Destinations and slugs</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>32586521-2655-48a0-9709-ef2520f59674</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slug</value>
          <variableId>0afc2926-615a-456e-af71-237132f3468b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>32586521-2655-48a0-9709-ef2520f59674</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>destination</value>
          <variableId>2279c644-bafc-4539-a258-0d6b61a367f6</variableId>
       </variableLink>
    </testCaseLink>
