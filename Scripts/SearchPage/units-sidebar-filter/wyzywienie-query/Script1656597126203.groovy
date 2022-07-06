@@ -29,20 +29,20 @@ WebUI.enableSmartWait()
 
 WebUI.comment('Wyżywienie')
 
-CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter1-1'), timeout, 0, 
-    wyzywienie[0])
+CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter1-2'), timeout, 
+    0, wyzywienie[1])
 
-CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter1-2'), timeout, 0, 
-    wyzywienie[1])
+CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter1-3'), timeout, 
+    0, wyzywienie[2])
 
-CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter1-3'), timeout, 0, 
-    wyzywienie[2])
+CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter1-4'), timeout, 
+    0, wyzywienie[3])
 
-CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter1-4'), timeout, 0, 
-    wyzywienie[3])
+CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter1-5'), timeout, 
+    0, wyzywienie[4])
 
-CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter1-5'), timeout, 0, 
-    wyzywienie[4])
+CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter1-1'), timeout, 
+    0, wyzywienie[0])
 
 WebUI.closeBrowser()
 

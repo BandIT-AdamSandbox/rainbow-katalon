@@ -52,7 +52,7 @@ public class filterQueryCheck {
 		if(url.contains(stringToCheck)) {
 			return;
 		} else {
-			KeywordUtil.markFailedAndStop('Nieprawidłowe query w linku: ' + stringToCheck);
+			KeywordUtil.markFailedAndStop('Nieprawidłowe query w linku: ' + stringToCheck + 'dla linku: ' + url);
 		}
 	}
 
