@@ -8,8 +8,8 @@
    <numberOfRerun>1</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
-   <rerunFailedTestCasesOnly>true</rerunFailedTestCasesOnly>
-   <rerunImmediately>false</rerunImmediately>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>8f083d87-b3f3-49f5-81a6-26ff330fe6c6</testSuiteGuid>
    <testCaseLink>
       <guid>fb4e8d23-60cb-4ac7-b4ce-efd25f90cd3b</guid>

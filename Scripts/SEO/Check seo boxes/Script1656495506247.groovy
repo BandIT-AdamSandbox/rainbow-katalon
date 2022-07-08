@@ -36,8 +36,7 @@ if(WebUI.verifyElementClickable(findTestObject('SeoContentSearchPage/zamknijCias
 WebUI.comment('Sekcja seo')
 
 if(!WebUI.verifyElementPresent(findTestObject('SeoContentSearchPage/content-bluebg-section'), 1, FailureHandling.OPTIONAL)){
-//	KeywordUtil.markFailedAndStop('Brak sekcji z treścią SEO')
-	KeywordUtil.markFailedAndStop('Brak sekcji z treścią SEO')
+	KeywordUtil.markFailedAndStop('Brak sekcji z treścią SEO dla: ' + destination)
 }
 
 WebUI.verifyElementPresent(findTestObject('SeoContentSearchPage/content-bluebg-section'), 1)
