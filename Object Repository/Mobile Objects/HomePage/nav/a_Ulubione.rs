@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Ulubione</name>
+   <tag></tag>
+   <elementGuidId>1a8a39c8-55d5-4824-a322-c51b7620881d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header__mobile']/div/div[2]/div[2]/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.footer-menu-container > a.footer-men__siteMap__link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8ec6f28c-d202-40fa-bc2d-1cd7d5f315e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://r.pl/schowek</value>
+      <webElementGuid>48b1d067-516b-4a56-b458-41fb9e55ff96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>75b42c42-010b-4d1c-a814-88644adcf381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>footer-men__siteMap__link</value>
+      <webElementGuid>e909b102-6559-42aa-aab9-04ca8af26eb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 0 Ulubione</value>
+      <webElementGuid>bddad375-a770-4d24-95bf-723622c94bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header__mobile&quot;)/div[1]/div[2]/div[@class=&quot;mobile__menu open&quot;]/div[@class=&quot;mobile__open&quot;]/div[@class=&quot;footer-menu&quot;]/div[@class=&quot;footer-menu-container&quot;]/a[@class=&quot;footer-men__siteMap__link&quot;]</value>
+      <webElementGuid>464b6d94-d323-4104-a2df-27694496419f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header__mobile']/div/div[2]/div[2]/div/div/div/a</value>
+      <webElementGuid>01186a2c-4b7d-44b4-b9d2-2529100fcde9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blog'])[1]/following::a[1]</value>
+      <webElementGuid>64132939-10de-4e00-ac94-c36c853e1364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wycieczki fakultatywne'])[2]/following::a[2]</value>
+      <webElementGuid>c8e8322c-3db4-4f68-8824-77b42d4bfc2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zaloguj się'])[1]/preceding::a[1]</value>
+      <webElementGuid>b49748a2-4478-4fe9-b5bb-58e2072d502c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://r.pl/schowek')]</value>
+      <webElementGuid>d4c3e583-ea8c-4c53-b771-902590adf533</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>30596167-5960-4a13-8ffb-0f7c74f86e95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://r.pl/schowek' and (text() = ' 0 Ulubione' or . = ' 0 Ulubione')]</value>
+      <webElementGuid>6c16de3a-e622-4984-bf4e-a1b8c5dc7a31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -15,7 +15,7 @@
       <guid>3a97b340-842a-42ae-a5b3-7b30e8249abc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-search-bar/search-bar-cities</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-search-bar/search-bar-cities</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -34,7 +34,7 @@
       <guid>e4aeb352-1fcd-434c-9add-0adbd2613094</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-search-bar/search-bar-transportation</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-search-bar/search-bar-transportation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

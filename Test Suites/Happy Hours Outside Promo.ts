@@ -15,7 +15,7 @@
       <guid>6327ae74-f02e-40bb-a3b9-249101123998</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Happy Hours/happy-hours_promo-not-active</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/Happy Hours/happy-hours_promo-not-active</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

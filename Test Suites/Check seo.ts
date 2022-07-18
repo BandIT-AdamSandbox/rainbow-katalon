@@ -15,7 +15,7 @@
       <guid>fb4e8d23-60cb-4ac7-b4ce-efd25f90cd3b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SEO/Check seo boxes</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SEO/Check seo boxes</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>32586521-2655-48a0-9709-ef2520f59674</id>

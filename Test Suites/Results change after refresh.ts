@@ -15,7 +15,7 @@
       <guid>42f08624-0648-4152-8ab4-103a6159eb33</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/10-popularne-kierunki-sprawdzenie-ilosci-ofert-bez-zmiany-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/Results/10-popularne-kierunki-sprawdzenie-ilosci-ofert-bez-zmiany-query</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>9b54d07b-aee6-4f74-b4a2-2a0cc1abfc96</id>

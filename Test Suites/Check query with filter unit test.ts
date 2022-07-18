@@ -15,7 +15,7 @@
       <guid>884f1596-fdcb-4d06-b22b-0c3d780b488b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-sidebar-filter/wyzywienie-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-sidebar-filter/wyzywienie-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -106,7 +106,7 @@
       <guid>ea3fe8e1-f62f-4395-8294-bdc5cf0206ef</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-sidebar-filter/ilosc-dni-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-sidebar-filter/ilosc-dni-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -197,7 +197,7 @@
       <guid>d5148459-7692-41c8-9080-6857c9ea55a5</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-sidebar-filter/typ-wyjazdu-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-sidebar-filter/typ-wyjazdu-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -288,7 +288,7 @@
       <guid>c95b0830-5cf1-4d89-adea-b6bcbc8c7fbd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-sidebar-filter/cena-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-sidebar-filter/cena-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -379,7 +379,7 @@
       <guid>7541845a-c488-4ca7-9bf1-983e706d6e73</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-sidebar-filter/standard-hotelu-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-sidebar-filter/standard-hotelu-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -470,7 +470,7 @@
       <guid>42ab27ef-dd7b-45b1-b661-95aa6e23bac1</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-sidebar-filter/ocena-klientow-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-sidebar-filter/ocena-klientow-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -561,7 +561,7 @@
       <guid>086a7f84-921d-45f8-b225-18e20041bd24</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-sidebar-filter/sezon-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-sidebar-filter/sezon-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -652,7 +652,7 @@
       <guid>57558436-41b0-4514-b8a2-79c20a07f0af</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-sidebar-filter/udogodnienia-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-sidebar-filter/udogodnienia-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -743,7 +743,7 @@
       <guid>3872ac12-8ab2-4e03-917d-96ff9448d7b8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-sidebar-filter/dokumenty-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-sidebar-filter/dokumenty-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -834,7 +834,7 @@
       <guid>13173627-6abc-40e0-b525-ad89b62e557e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-sidebar-filter/rodzaj-hotelu-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-sidebar-filter/rodzaj-hotelu-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -925,7 +925,7 @@
       <guid>3b729d55-f4e1-4bdc-9808-ace2fa32a5c7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-sidebar-filter/pokoje-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-sidebar-filter/pokoje-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -1016,7 +1016,7 @@
       <guid>901a1f15-c779-44b7-bb43-5cfe585e6dda</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-sidebar-filter/tematyka-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-sidebar-filter/tematyka-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -1107,7 +1107,7 @@
       <guid>b80b53ae-3055-4a22-a4c3-01de32ee7973</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/SearchPage/units-sidebar-filter/promocje-query</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/SearchPage/units-sidebar-filter/promocje-query</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

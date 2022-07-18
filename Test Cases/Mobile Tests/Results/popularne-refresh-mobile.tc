@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Ilość ofert na listingu - różne wyniki ilościowe przy kolejnych zapytaniach bez zmiany parametrów.
+Chodzi o sprawdzenie czy kolejne zapytania po bloczki np.. na topowych kierunkach (r.pl/grecja, r.pl/turcja, r.pl/hiszpania, r.pl/kuba, r.pl/dominikana) bez zmiany parametrów zwracają tą samą ilość wyników w krótkich interwałach czasu (2 sekundy).</description>
+   <name>popularne-refresh-mobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f3dabf98-a51b-4a53-8ef1-c6e84a03029e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>65a856b5-c180-45ea-b12c-7e92239642b7</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/test-case-10</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>58384711-a5ec-453d-baa2-6b764d2fb824</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>324ecdb6-241e-4c83-95d2-cc5ef99a7c3a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>65a856b5-c180-45ea-b12c-7e92239642b7</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>url</value>
+      <variableId>11c4bdb5-f83a-4edd-9273-60914111d525</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>58384711-a5ec-453d-baa2-6b764d2fb824</id>
+      <masked>false</masked>
+      <name>firstRun</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>324ecdb6-241e-4c83-95d2-cc5ef99a7c3a</id>
+      <masked>false</masked>
+      <name>compareString</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>11c4bdb5-f83a-4edd-9273-60914111d525</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+</TestCaseEntity>

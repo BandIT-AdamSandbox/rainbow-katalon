@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>footer-mobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ba05a87d-888c-4df5-8742-86bcbbff13a2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0442e2a9-d0af-418e-8e54-58973de03e8e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>3</defaultValue>
+      <description></description>
+      <id>0442e2a9-d0af-418e-8e54-58973de03e8e</id>
+      <masked>false</masked>
+      <name>timeout</name>
+   </variable>
+</TestCaseEntity>

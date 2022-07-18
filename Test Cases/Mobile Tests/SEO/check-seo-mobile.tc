@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>check-seo-mobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>92e9ff62-d05f-40d6-9461-e2b5f7179653</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>849d234f-588d-4c9c-b666-4763f071bce5</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Destinations and slugs</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>849d234f-588d-4c9c-b666-4763f071bce5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>slug</value>
+      <variableId>c839e3c3-ea09-488f-9af3-38f46041ca91</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>849d234f-588d-4c9c-b666-4763f071bce5</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>destination</value>
+      <variableId>94df398a-4425-40f3-99be-0dcf7121834c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'/grecja'</defaultValue>
+      <description></description>
+      <id>c839e3c3-ea09-488f-9af3-38f46041ca91</id>
+      <masked>false</masked>
+      <name>slug</name>
+   </variable>
+   <variable>
+      <defaultValue>'Grecja'</defaultValue>
+      <description></description>
+      <id>94df398a-4425-40f3-99be-0dcf7121834c</id>
+      <masked>false</masked>
+      <name>destination</name>
+   </variable>
+</TestCaseEntity>

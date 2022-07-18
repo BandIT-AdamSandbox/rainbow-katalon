@@ -6,6 +6,7 @@
    <UUID>e8ccf39c-645a-4c8d-8f4f-5a45d95bb76b</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/adamtopczewski/git/rainbow_test_suite/rainbow_test_suite.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

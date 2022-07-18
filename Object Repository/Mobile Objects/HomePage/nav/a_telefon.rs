@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_telefon</name>
+   <tag></tag>
+   <elementGuidId>e2605c5c-2b06-4ff2-b1fd-f8b06ed7d13e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header__mobile']/div/div[2]/div[2]/div/div/div/a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>04e825ee-f44e-45ba-b976-e9fc4a12e3d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>tel:426803851</value>
+      <webElementGuid>3c181e5c-43ad-49c0-bd28-9653ac83fcc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>footer-men__siteMap__link</value>
+      <webElementGuid>46b9e3e4-e879-4d92-9eb3-e4e8710d65a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>42 680 38 51Codziennie 8 - 22</value>
+      <webElementGuid>1c49006e-15fe-4fe3-babc-6f2e3a0887f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header__mobile&quot;)/div[1]/div[2]/div[@class=&quot;mobile__menu open&quot;]/div[@class=&quot;mobile__open&quot;]/div[@class=&quot;footer-menu&quot;]/div[@class=&quot;footer-menu-container&quot;]/a[@class=&quot;footer-men__siteMap__link&quot;]</value>
+      <webElementGuid>0e0b1ef8-d78a-4cb4-8ecf-8fab1ca59e46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header__mobile']/div/div[2]/div[2]/div/div/div/a[3]</value>
+      <webElementGuid>7ca28c2e-aff3-49bd-9ad3-fc087d6b5db1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zaloguj się'])[1]/following::a[1]</value>
+      <webElementGuid>1b5c557f-4301-4e50-9c96-edcd8b8463eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ulubione'])[1]/following::a[2]</value>
+      <webElementGuid>c7cffce9-da9b-4138-b926-dadc836f23e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nasze biura'])[1]/preceding::a[1]</value>
+      <webElementGuid>16389f7b-86fc-488d-9d5d-399821dd5319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'tel:426803851')])[2]</value>
+      <webElementGuid>4e43b9b4-26b5-40ce-b126-687fd69a5697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a[3]</value>
+      <webElementGuid>0ccb0a7d-bafd-4b36-8372-1e670ec2f8f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'tel:426803851' and (text() = '42 680 38 51Codziennie 8 - 22' or . = '42 680 38 51Codziennie 8 - 22')]</value>
+      <webElementGuid>1c146570-ca1d-454e-89a9-e3ef5b6944dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

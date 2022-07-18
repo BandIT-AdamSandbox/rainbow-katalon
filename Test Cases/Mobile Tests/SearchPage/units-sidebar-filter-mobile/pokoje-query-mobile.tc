@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>pokoje-query-mobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f80ac3d-be77-43d9-8fd8-41d51e62e801</testCaseGuid>
+   <variable>
+      <defaultValue>['all-inclusive', '3-posilki', '2-posilki', 'sniadania', 'bez-wyzywienia']</defaultValue>
+      <description></description>
+      <id>fd6b534e-7270-44d3-b3b6-2e5d2a57bae6</id>
+      <masked>false</masked>
+      <name>wyzywienie</name>
+   </variable>
+   <variable>
+      <defaultValue>['0-6', '7-9', '10-13', '14-17', '%2A-%2A']</defaultValue>
+      <description></description>
+      <id>8c8df87b-b8ec-4d47-9874-c6f81d4958a1</id>
+      <masked>false</masked>
+      <name>iloscDni</name>
+   </variable>
+   <variable>
+      <defaultValue>['wypoczynek', 'objazd', 'objazd%20%2B%20potwierdzony', 'objazd%20%2B%20wypoczynek', 'objazd%20%2B%20wypoczynek%20%2B%20potwierdzony']</defaultValue>
+      <description></description>
+      <id>bc478b2f-bd41-42fb-b459-86d2d227d8f0</id>
+      <masked>false</masked>
+      <name>typWyjazdu</name>
+   </variable>
+   <variable>
+      <defaultValue>['avg', 'sum']</defaultValue>
+      <description></description>
+      <id>bb8a41b0-5eb3-41f1-b81a-e28762e72cb7</id>
+      <masked>false</masked>
+      <name>cena</name>
+   </variable>
+   <variable>
+      <defaultValue>['10', '8', '6', '4']</defaultValue>
+      <description></description>
+      <id>df733ef9-08a7-4117-a041-245c46e136c0</id>
+      <masked>false</masked>
+      <name>standardHotelu</name>
+   </variable>
+   <variable>
+      <defaultValue>['10-12', '8-12', '6-12']</defaultValue>
+      <description></description>
+      <id>c5d565ed-cb44-4d71-a631-a5bb215147ff</id>
+      <masked>false</masked>
+      <name>ocenaKlientow</name>
+   </variable>
+   <variable>
+      <defaultValue>['lato-2022', 'zima-22_23']</defaultValue>
+      <description></description>
+      <id>4c38e956-2fb0-43c6-b094-99ac993516ee</id>
+      <masked>false</masked>
+      <name>sezon</name>
+   </variable>
+   <variable>
+      <defaultValue>['wi-fi', 'aquapark-zjezdzalnie', 'figloklub', 'miedzynarodowe-animacje', 'spa', 'silownia', 'kort-tenisowy', 'darmowe-lezaki', 'plaza-do-100-m', 'wblisko-centrum']</defaultValue>
+      <description></description>
+      <id>3e58e776-1b3e-48fc-a634-2481795a97b2</id>
+      <masked>false</masked>
+      <name>udogodnienia</name>
+   </variable>
+   <variable>
+      <defaultValue>['paszport', 'wiza']</defaultValue>
+      <description></description>
+      <id>05b5dd60-6489-4e29-8c06-64f2681fb46f</id>
+      <masked>false</masked>
+      <name>dokumenty</name>
+   </variable>
+   <variable>
+      <defaultValue>['nowosc', 'hotel-premium', 'rodzinny', 'dla-doroslych', 'white-olive', 'hotel-elite']</defaultValue>
+      <description></description>
+      <id>677618ff-6ba8-4bd6-9f96-b8875dd24279</id>
+      <masked>false</masked>
+      <name>rodzajHotelu</name>
+   </variable>
+   <variable>
+      <defaultValue>['z-osobna-sypialnia', 'apartament-z-osobna-sypialnia', 'z-widokiem-na-morze', 'pokoj-rodzinny', 'studio']</defaultValue>
+      <description></description>
+      <id>da26bf7c-7fa5-4e7f-8596-8083f97bda0f</id>
+      <masked>false</masked>
+      <name>pokoje</name>
+   </variable>
+   <variable>
+      <defaultValue>['city-break', 'egzotyka', 'egzotyka-light', 'europa-orient', 'kuchani-wino', 'parki-rozrywki', 'poza-utartym-szlakiem', 'rejs-statkiem', 'smak-przygody', 'spokojne-wakacje-50-plus', 'sylwester', 'zainteresowania-hobby', 'wycieczki-objazdowe-premium']</defaultValue>
+      <description></description>
+      <id>dfef16b3-153b-40c0-8ad8-e5a8080360d0</id>
+      <masked>false</masked>
+      <name>tematyka</name>
+   </variable>
+   <variable>
+      <defaultValue>['egzotyka-22-23-second-minute', 'happy-hours', 'przedsmak-lata', 'topniejace-rabaty', 'egzotyka-22-23-przedsprzedaz', 'last-minute', 'single-nie-placa', 'super-sroda']</defaultValue>
+      <description></description>
+      <id>4763651a-f147-424c-966e-b8872ea902fb</id>
+      <masked>false</masked>
+      <name>promocje</name>
+   </variable>
+   <variable>
+      <defaultValue>3</defaultValue>
+      <description></description>
+      <id>42a31a6e-d9b8-49a6-84a1-032d83ac6973</id>
+      <masked>false</masked>
+      <name>timeout</name>
+   </variable>
+</TestCaseEntity>

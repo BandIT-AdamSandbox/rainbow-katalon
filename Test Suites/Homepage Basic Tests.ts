@@ -15,7 +15,7 @@
       <guid>b2e5c0da-15ac-476e-ae8f-6b0df5f21fc0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Homepage/homepage-basic-test</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/Homepage/homepage-basic-test</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -52,7 +52,7 @@
       <guid>9877fb8f-9064-458b-8416-ef5c62f1487b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Homepage/Nav and footer/Navigation</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/Homepage/Nav and footer/Navigation</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
@@ -65,7 +65,7 @@
       <guid>af12132a-2a23-4c80-827d-e38e9b8a0148</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Homepage/Nav and footer/Footer</testCaseId>
+      <testCaseId>Test Cases/Desktop Tests/Homepage/Nav and footer/Footer</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

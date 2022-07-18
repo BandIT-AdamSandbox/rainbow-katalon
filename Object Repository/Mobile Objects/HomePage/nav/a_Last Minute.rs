@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Last Minute</name>
+   <tag></tag>
+   <elementGuidId>fcf5ec2c-d123-45f5-b244-b4a66f0fed74</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='header__mobile']/div/div[2]/div[2]/div/nav/div[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.mobile__kategoria__wrapper</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>394fb741-5831-437e-b611-274ebbcb9e39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://r.pl/last-minute</value>
+      <webElementGuid>e47ed000-ea6d-4361-a2de-6f012fe251f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mobile__kategoria__wrapper</value>
+      <webElementGuid>dd93cec6-f160-427d-b6e1-fcf2fdd8c184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Last Minute</value>
+      <webElementGuid>a599d955-358a-4bb3-8283-1418b7a0dce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header__mobile&quot;)/div[1]/div[2]/div[@class=&quot;mobile__menu open&quot;]/div[@class=&quot;mobile__open&quot;]/nav[@class=&quot;mobile__kategorie_container&quot;]/div[3]/a[@class=&quot;mobile__kategoria__wrapper&quot;]</value>
+      <webElementGuid>8aaa3c74-a140-4450-86a3-351684b4bf54</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='header__mobile']/div/div[2]/div[2]/div/nav/div[3]/a</value>
+      <webElementGuid>7ea83117-b31a-433a-bae4-8f15b92aaa56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Końcóweczka'])[1]/following::a[1]</value>
+      <webElementGuid>35551021-c33a-4b8e-bf9d-0185bc889b57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Super Środa'])[1]/following::a[2]</value>
+      <webElementGuid>d5e3efe3-4d54-4251-acf7-8fb16d4b6b8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Czartery'])[1]/preceding::a[1]</value>
+      <webElementGuid>fd7ef39e-4c36-4cd8-a07a-3e4bba5ef58f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://r.pl/last-minute')]</value>
+      <webElementGuid>84dc35c4-55e3-412d-9bd8-af7774c7dca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>4f98f666-438f-482c-896c-b15950b2d2d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://r.pl/last-minute' and (text() = 'Last Minute' or . = 'Last Minute')]</value>
+      <webElementGuid>7f3db74a-76bc-4524-a0da-d6b72f471761</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
