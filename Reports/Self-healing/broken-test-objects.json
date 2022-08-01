@@ -29,7 +29,7 @@
       "recoveryMethod": "XPATH",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/SeoContentSearchPage/zamknijCiastka_neighbor.png"
     },
-        {
+    {
       "approved": true,
       "testObjectId": "Object Repository/home-page/slider-1/slider-tab-1",
       "brokenLocator": "li.tabs__tab:nth-child(1)",
@@ -118,6 +118,95 @@
       "proposedLocatorMethod": "CSS",
       "recoveryMethod": "CSS",
       "pathToScreenshot": "Reports/Self-healing/Object Repository/home-page/slider-1/slider-tab-3_CSS.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Mobile Objects/SearchPage/buttony-szukaj-mobile/szukaj-show-options",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Dokąd chcesz jechać?\u0027])[1]/preceding::div[4]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Mobile Objects/SearchPage/buttony-szukaj-mobile/szukaj-show-options_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Mobile Objects/SearchPage/buttony-szukaj-mobile/button_szukaj",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/div[2]/main/header/div/div/div[6]/button",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Samolot\u0027])[1]/following::button[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Mobile Objects/SearchPage/buttony-szukaj-mobile/button_szukaj_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SzukajPage/SearchBar/TypTransportu/span_DowolnyTypTransportu",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/div[2]/main/header/div/div/div[5]/div[2]/div[2]/div/label/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Dowolny\u0027])[1]/following::span[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SzukajPage/SearchBar/TypTransportu/span_DowolnyTypTransportu_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Mobile Objects/SEO/akordeon-mobile/Akordeon-pierwszy-ele-mobile",
+      "brokenLocator": "//*[@id\u003d\"__layout\"]/div/div[2]/main/section[2]/div/div/div/div[1]/div[2]/div[count(. | //div[@class \u003d \u0027accordion-seo__container\u0027]) \u003d count(//div[@class \u003d \u0027accordion-seo__container\u0027])]",
+      "brokenLocatorMethod": "BASIC",
+      "proposedLocator": "/html/body/div[2]/div/div/div[2]/main/section[2]/div/div/div/div[1]/div[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Mobile Objects/SEO/akordeon-mobile/Akordeon-pierwszy-ele-mobile_XPATH.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SzukajPage/SearchBar/TypTransportu/span_DowolnyTypTransportu",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/div[2]/main/header/div/div/div[5]/div[2]/div[2]/div/label/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//label/span",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/SzukajPage/SearchBar/TypTransportu/span_DowolnyTypTransportu",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/div[2]/main/header/div/div/div[5]/div[2]/div[2]/div/label[1]/span",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Samolot\u0027])[1]/preceding::span[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/SzukajPage/SearchBar/TypTransportu/span_DowolnyTypTransportu_neighbor.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Mobile Objects/SearchPage/SearchBar/TypTransportu/div_Typ Transportu",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/div[2]/main/header/div/div/div[5]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div/div[5]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Mobile Objects/SearchPage/SearchBar/TypTransportu/div_Typ Transportu_position.png"
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Mobile Objects/SearchPage/SearchBar/TypTransportu/label_Samolot Dreamliner",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/div[2]/main/header/div/div/div[5]/div[2]/div[2]/div/label[3]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//label[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
+    },
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Mobile Objects/SearchPage/SearchBar/TypTransportu/label_Autobus",
+      "brokenLocator": "//div[@id\u003d\u0027__layout\u0027]/div/div[2]/main/header/div/div/div[5]/div[2]/div[2]/div/label[4]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Dojazd własny\u0027])[2]/preceding::label[1]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": ""
     }
   ]
 }

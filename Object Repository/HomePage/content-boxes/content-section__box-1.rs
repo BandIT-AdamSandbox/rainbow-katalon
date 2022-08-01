@@ -7,11 +7,15 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__layout']/div/div[2]/main/section[6]/div/div/div/div/article/section</value>
+         <value>//div[@id='__layout']/div/div[2]/main/section[7]/div/div/div/div/article/section</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>section.seo-section__col</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;strona-glowna&quot;]/section[@class=&quot;section section gray&quot;]/div[@class=&quot;wrap&quot;]/div[1]/div[@class=&quot;swiper-r inactive&quot;]/div[@class=&quot;swiper-r__wrap&quot;]/article[@class=&quot;swiper-r__slides seo-section&quot;]/section[@class=&quot;seo-section__col&quot;][count(. | //section[@class = 'seo-section__col']) = count(//section[@class = 'seo-section__col'])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>section</value>
-      <webElementGuid>e4bdb6e8-8531-4585-89c7-c42716951145</webElementGuid>
+      <webElementGuid>02ee33bf-33ed-4868-96c0-3c5545fd41f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>seo-section__col</value>
-      <webElementGuid>803d8934-3e7e-4a94-86a5-0493fa635e6a</webElementGuid>
+      <webElementGuid>6e1c4ace-c074-4375-98c2-3394c9135ee5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +42,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Last minuteJesteś ostatnio przemęczony i nie możesz się skupić na pracy, a aura za oknem sprawia, że najchętniej przez cały dzień nie wychodziłbyś spod kołdry? Zamiast zastanawiać się, jak przetrwać i nie zwariować sprawdź jaką ofertę last minute przygotowało nasze biuro podróży!Jeśli tylko możesz na kilka dni oderwać się od obowiązków, to teraz jest najlepszy czas na podróż, ponieważ mamy wiele ciekawych destynacji w bardzo atrakcyjnych cenach. Może zainteresuje Cię Chorwacja, Grecja lub Portugalia? Tam zawsze masz gwarancję dobrej pogody, a niezliczone atrakcje turystyczne sprawią, że każdy dzień pobytu będzie pełen wrażeń. Dodaj do tego pyszne, lokalne jedzenie i otrzymasz definicję idealnego urlopu.Oferta last minute jest świetnym rozwiązaniem dla osób podchodzących do życia spontanicznie, które nie lubią tworzyć długoterminowych planów.Czasami wystarczy tylko spakować kilka najpotrzebniejszych rzeczy i wyruszyć w podróż, która może stać się przygodą życia. Udany urlop wcale nie wymaga od Ciebie wielu miesięcy poszukiwań i zastanawiania się, gdzie i kiedy wyjechać. Od dawna marzysz o wyjeździe do Izraela czy Gruzji, ale zawsze się martwisz o finanse? Sprawdź naszą ofertę, bo teraz wyśnione wakacje są na wyciągnięcie ręki!</value>
-      <webElementGuid>e91af1fa-dbf1-40cf-b611-592c035f8492</webElementGuid>
+      <webElementGuid>9712fcb1-8d94-4b28-97fc-52ef12918c5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,15 +50,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;strona-glowna&quot;]/section[@class=&quot;section section gray&quot;]/div[@class=&quot;wrap&quot;]/div[1]/div[@class=&quot;swiper-r inactive&quot;]/div[@class=&quot;swiper-r__wrap&quot;]/article[@class=&quot;swiper-r__slides seo-section&quot;]/section[@class=&quot;seo-section__col&quot;]</value>
-      <webElementGuid>4e1d599d-79e2-4103-9f84-4024b7622fbd</webElementGuid>
+      <webElementGuid>354147ba-10a7-4180-8e3a-1ff566c4d856</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__layout']/div/div[2]/main/section[6]/div/div/div/div/article/section</value>
-      <webElementGuid>957eb46d-9893-4013-94bf-b8a78ff18aa6</webElementGuid>
+      <value>//div[@id='__layout']/div/div[2]/main/section[7]/div/div/div/div/article/section</value>
+      <webElementGuid>c9fce4ba-77b3-4d9d-aa3a-23d7777ee7d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pogoda, klimat i średnie temperatury w Hiszpanii'])[1]/following::section[2]</value>
-      <webElementGuid>5febe876-9afc-48a0-b513-cebb0c515a32</webElementGuid>
+      <webElementGuid>0356af66-c5bf-4d96-a655-a68690867d82</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +74,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pogoda, klimat i temperatury w Portugalii. Kiedy jechać do Lizbony i Algarve?'])[1]/following::section[2]</value>
-      <webElementGuid>cd186bb8-208c-48e6-9442-12717cccb346</webElementGuid>
+      <webElementGuid>73355fb0-128d-4144-9765-f73954e5f8e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +82,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//article/section</value>
-      <webElementGuid>611e1fc6-9848-45e3-8fde-c203efee8c8b</webElementGuid>
+      <webElementGuid>7edc66b9-e37a-4996-908d-42a083ec8e0f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,6 +90,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//section[(text() = 'Last minuteJesteś ostatnio przemęczony i nie możesz się skupić na pracy, a aura za oknem sprawia, że najchętniej przez cały dzień nie wychodziłbyś spod kołdry? Zamiast zastanawiać się, jak przetrwać i nie zwariować sprawdź jaką ofertę last minute przygotowało nasze biuro podróży!Jeśli tylko możesz na kilka dni oderwać się od obowiązków, to teraz jest najlepszy czas na podróż, ponieważ mamy wiele ciekawych destynacji w bardzo atrakcyjnych cenach. Może zainteresuje Cię Chorwacja, Grecja lub Portugalia? Tam zawsze masz gwarancję dobrej pogody, a niezliczone atrakcje turystyczne sprawią, że każdy dzień pobytu będzie pełen wrażeń. Dodaj do tego pyszne, lokalne jedzenie i otrzymasz definicję idealnego urlopu.Oferta last minute jest świetnym rozwiązaniem dla osób podchodzących do życia spontanicznie, które nie lubią tworzyć długoterminowych planów.Czasami wystarczy tylko spakować kilka najpotrzebniejszych rzeczy i wyruszyć w podróż, która może stać się przygodą życia. Udany urlop wcale nie wymaga od Ciebie wielu miesięcy poszukiwań i zastanawiania się, gdzie i kiedy wyjechać. Od dawna marzysz o wyjeździe do Izraela czy Gruzji, ale zawsze się martwisz o finanse? Sprawdź naszą ofertę, bo teraz wyśnione wakacje są na wyciągnięcie ręki!' or . = 'Last minuteJesteś ostatnio przemęczony i nie możesz się skupić na pracy, a aura za oknem sprawia, że najchętniej przez cały dzień nie wychodziłbyś spod kołdry? Zamiast zastanawiać się, jak przetrwać i nie zwariować sprawdź jaką ofertę last minute przygotowało nasze biuro podróży!Jeśli tylko możesz na kilka dni oderwać się od obowiązków, to teraz jest najlepszy czas na podróż, ponieważ mamy wiele ciekawych destynacji w bardzo atrakcyjnych cenach. Może zainteresuje Cię Chorwacja, Grecja lub Portugalia? Tam zawsze masz gwarancję dobrej pogody, a niezliczone atrakcje turystyczne sprawią, że każdy dzień pobytu będzie pełen wrażeń. Dodaj do tego pyszne, lokalne jedzenie i otrzymasz definicję idealnego urlopu.Oferta last minute jest świetnym rozwiązaniem dla osób podchodzących do życia spontanicznie, które nie lubią tworzyć długoterminowych planów.Czasami wystarczy tylko spakować kilka najpotrzebniejszych rzeczy i wyruszyć w podróż, która może stać się przygodą życia. Udany urlop wcale nie wymaga od Ciebie wielu miesięcy poszukiwań i zastanawiania się, gdzie i kiedy wyjechać. Od dawna marzysz o wyjeździe do Izraela czy Gruzji, ale zawsze się martwisz o finanse? Sprawdź naszą ofertę, bo teraz wyśnione wakacje są na wyciągnięcie ręki!')]</value>
-      <webElementGuid>a57cb491-fc40-4959-b245-f9ab589da0e4</webElementGuid>
+      <webElementGuid>74d136db-c6b4-4f73-88b3-a6a142c3c269</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

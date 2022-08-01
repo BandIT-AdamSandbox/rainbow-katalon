@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Samolot</name>
+   <tag></tag>
+   <elementGuidId>05d0bb48-a69c-4104-838d-1b3471ec03bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[5]/div[2]/div[2]/div/label[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>48ad7f75-c643-41ce-ad6e-2519833ffc5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vue-radio radio-filter__radio</value>
+      <webElementGuid>c341e30c-4eba-4653-ac57-54bbd8e7c246</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  
+        Samolot
+       </value>
+      <webElementGuid>2562246d-24da-42a3-8ddb-0b7edc4c6a20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/header[@class=&quot;header-banner header-banner__webp&quot;]/div[@class=&quot;wrap wrap-header&quot;]/div[@class=&quot;filtry filtry&quot;]/div[@class=&quot;filtry-input filtry__element filtry__element--transport&quot;]/div[@class=&quot;filtry-panel filtry-panel&quot;]/div[@class=&quot;filtry-panel__body&quot;]/div[@class=&quot;transport__radio show-desktop&quot;]/label[@class=&quot;vue-radio radio-filter__radio&quot;]</value>
+      <webElementGuid>c7813074-abfa-45e6-bcaa-616fa706492b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[5]/div[2]/div[2]/div/label[2]</value>
+      <webElementGuid>eb5f2611-9d3a-4083-bcf3-ff1703c0549c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dowolny'])[1]/following::label[1]</value>
+      <webElementGuid>8b75e10c-0fd7-467b-be0d-79ea2a43709b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Typ transportu'])[1]/following::label[2]</value>
+      <webElementGuid>6bcbc89d-2b0b-4edc-8fa1-d50612ad70ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Samolot Dreamliner'])[1]/preceding::label[1]</value>
+      <webElementGuid>7b6d21a8-5fcb-478c-a51c-0d4c8bf8023e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]</value>
+      <webElementGuid>3ac82fab-4019-4aee-bc2d-d64f7deea060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '  
+        Samolot
+       ' or . = '  
+        Samolot
+       ')]</value>
+      <webElementGuid>a03020e2-99cd-4d06-887e-44c53f35417c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

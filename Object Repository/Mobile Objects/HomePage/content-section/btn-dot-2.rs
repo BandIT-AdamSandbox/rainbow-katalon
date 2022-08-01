@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__layout']/div/div[2]/main/section[6]/div/div/div[2]/div[2]</value>
+         <value>//div[@id='__layout']/div/div[2]/main/section[7]/div/div/div[2]/div[2]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c6ec8866-1366-4563-84c6-03f0af03af81</webElementGuid>
+      <webElementGuid>746a83ec-7d69-4372-a525-6f0d0adca355</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>seo-section__dots</value>
-      <webElementGuid>2723e6cb-2c3a-45f7-a8a5-3bb047dc6980</webElementGuid>
+      <webElementGuid>613a2a7c-e424-4020-ac15-a4aae0a7e943</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,22 +37,22 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;strona-glowna&quot;]/section[@class=&quot;section section gray&quot;]/div[@class=&quot;wrap&quot;]/div[1]/div[@class=&quot;seo-section__dots-wrapper&quot;]/div[@class=&quot;seo-section__dots&quot;]</value>
-      <webElementGuid>b3df1260-d8ba-4654-a529-6063dfbf40b5</webElementGuid>
+      <webElementGuid>cee24a00-3eae-41bd-b4dc-5074ac7e1430</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__layout']/div/div[2]/main/section[6]/div/div/div[2]/div[2]</value>
-      <webElementGuid>33dea780-eb78-4bdb-8cc8-7ed09f5a8ab4</webElementGuid>
+      <value>//div[@id='__layout']/div/div[2]/main/section[7]/div/div/div[2]/div[2]</value>
+      <webElementGuid>742b38ac-fee1-4b96-962e-5dc87c172594</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//section[6]/div/div/div[2]/div[2]</value>
-      <webElementGuid>f8e80942-1f9d-4a14-a448-ac5dba242ac7</webElementGuid>
+      <value>//section[7]/div/div/div[2]/div[2]</value>
+      <webElementGuid>2678eb92-f0b5-4614-8c76-a091608fef9d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

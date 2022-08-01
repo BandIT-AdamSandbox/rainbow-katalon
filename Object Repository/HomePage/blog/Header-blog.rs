@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__layout']/div/div[2]/main/section[5]/div/h2</value>
+         <value>//div[@id='__layout']/div/div[2]/main/section[6]/div/h2</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>0edaf2a6-203c-48d3-b81e-8b31de67ea51</webElementGuid>
+      <webElementGuid>5f976a15-611b-46bc-bca3-9aae89df316b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>section-header blog-header-text h3</value>
-      <webElementGuid>8044caff-6fff-4cf0-85d5-c78a7a25ef4e</webElementGuid>
+      <webElementGuid>c2fb9067-db7b-4d30-b818-0667cf6951af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <value>
         blog
       </value>
-      <webElementGuid>1fba2e41-4b82-4565-bef6-b3feaddd76a0</webElementGuid>
+      <webElementGuid>ea7c4d2f-55cd-4ba9-a286-efe7b1686e3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,15 +48,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;strona-glowna&quot;]/section[@class=&quot;section&quot;]/div[@class=&quot;wrap&quot;]/h2[@class=&quot;section-header blog-header-text h3&quot;]</value>
-      <webElementGuid>46435df2-1280-4fbf-82fb-db6f9722ae5c</webElementGuid>
+      <webElementGuid>2a004797-df71-4e3a-b026-04e427b9b7eb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__layout']/div/div[2]/main/section[5]/div/h2</value>
-      <webElementGuid>3b76e495-a2a8-44be-9ecf-a48d45aad4a3</webElementGuid>
+      <value>//div[@id='__layout']/div/div[2]/main/section[6]/div/h2</value>
+      <webElementGuid>627793ac-9c3d-4776-a774-221d8dea0d19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='od 6 144 zł'])[1]/following::h2[1]</value>
-      <webElementGuid>6d755b7c-2fcb-4947-9110-cd5c74bffb94</webElementGuid>
+      <webElementGuid>77911100-e7a1-425d-915c-7cb95d239e0e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Meksyk'])[1]/following::h2[1]</value>
-      <webElementGuid>3e80833b-988e-4554-8ec1-af5fdf8676db</webElementGuid>
+      <webElementGuid>f9d0e7f0-3e9e-47c6-8542-aedf841a825a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pogoda, klimat i temperatury w Portugalii. Kiedy jechać do Lizbony i Algarve?'])[1]/preceding::h2[1]</value>
-      <webElementGuid>bd24f870-19eb-4d4e-8752-b8ea664cf43e</webElementGuid>
+      <webElementGuid>9c3b1c32-9f3e-44cc-b9e4-1eb2493c44c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pogoda, klimat i średnie temperatury w Hiszpanii'])[1]/preceding::h2[1]</value>
-      <webElementGuid>d9622dfc-4639-42fa-9459-dd0754127021</webElementGuid>
+      <webElementGuid>c1986244-efc3-447c-bbb3-84dbaa55c924</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,15 +96,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='blog']/parent::*</value>
-      <webElementGuid>1404268e-50fc-4e39-bdde-47b3ee42c9af</webElementGuid>
+      <webElementGuid>67a32815-6b23-4bd3-bc75-1ce567635449</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//section[5]/div/h2</value>
-      <webElementGuid>5e96e2f5-43bd-4fc1-974a-807b1c0e204b</webElementGuid>
+      <value>//section[6]/div/h2</value>
+      <webElementGuid>d6bac17a-3dee-410a-8efc-4df2b31da90a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,6 +116,6 @@
       ' or . = '
         blog
       ')]</value>
-      <webElementGuid>d09126ea-7f66-4657-83ba-a0743d115b24</webElementGuid>
+      <webElementGuid>e5771ff9-692c-44ff-b375-1f5128b1f417</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

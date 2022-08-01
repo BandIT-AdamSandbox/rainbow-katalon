@@ -6,12 +6,12 @@
    <elementGuidId>ac14bdaf-eb4f-416c-ac1a-be4b69481285</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[5]/div[2]/div[2]/div/label/span</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>span.vue-radio__text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[5]/div[2]/div[2]/div/label[1]/span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4b33e7cc-ed89-48fe-b539-bad6f6ca4498</webElementGuid>
+      <webElementGuid>65465869-7f9f-466c-9fe6-1974bfc55fd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>vue-radio__text</value>
-      <webElementGuid>9046bed3-2205-4d9c-880e-6f6759ae4eb5</webElementGuid>
+      <webElementGuid>5bf5c0f3-2299-4bf7-8cbd-22853050feb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <value>
         Dowolny
       </value>
-      <webElementGuid>0e73c9aa-7c89-486a-b3f4-ec4a9c82ebd2</webElementGuid>
+      <webElementGuid>4e371614-bb8a-4dc3-9b5e-f445f609cafa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,15 +48,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;szukaj&quot;]/header[@class=&quot;header-banner header-banner__webp r-header-mobile--display&quot;]/div[@class=&quot;wrap wrap-header&quot;]/div[@class=&quot;filtry filtry&quot;]/div[@class=&quot;filtry-input filtry__element filtry__element--transport filtry-input--no-clearable&quot;]/div[@class=&quot;filtry-panel filtry-panel&quot;]/div[@class=&quot;filtry-panel__body&quot;]/div[@class=&quot;transport__radio show-desktop&quot;]/label[@class=&quot;vue-radio radio-filter__radio marked&quot;]/span[@class=&quot;vue-radio__text&quot;]</value>
-      <webElementGuid>f64d3768-8009-410f-9971-24820ddf00b6</webElementGuid>
+      <webElementGuid>3e551337-55e0-49f1-8d30-44ed076b0a8f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[5]/div[2]/div[2]/div/label/span</value>
-      <webElementGuid>e7e2627b-8554-4228-805c-931b87e3d130</webElementGuid>
+      <value>//div[@id='__layout']/div/div[2]/main/header/div/div/div[5]/div[2]/div[2]/div/label[1]/span</value>
+      <webElementGuid>72c2a9a0-176f-41bf-9343-625501fcf664</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Typ transportu'])[1]/following::span[1]</value>
-      <webElementGuid>00921a7a-bab3-494b-b05d-8b7a823ea171</webElementGuid>
+      <webElementGuid>7032bd8a-4bcb-4f74-b113-69bdafa62df4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dowolny'])[1]/following::span[2]</value>
-      <webElementGuid>0d455abb-0368-434c-b1ff-a088e7ee2a94</webElementGuid>
+      <webElementGuid>2da23dce-6dbc-4d89-add4-9d8783329bb5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Samolot'])[1]/preceding::span[1]</value>
-      <webElementGuid>395ae6f8-e2cb-4592-8982-009292df31cd</webElementGuid>
+      <webElementGuid>a5233242-a41b-4868-9923-8591b10b0d55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Samolot Dreamliner'])[1]/preceding::span[2]</value>
-      <webElementGuid>a8c98e06-6e3f-40cc-a985-3b709500dc81</webElementGuid>
+      <webElementGuid>d19c1340-12e0-45e6-a027-b21c26d20211</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label/span</value>
-      <webElementGuid>75cc4d45-bf94-4c51-82a1-e9b4b97279ca</webElementGuid>
+      <webElementGuid>83bcc38d-49db-4cef-bd1c-9a6213db1f33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -108,6 +108,6 @@
       ' or . = '
         Dowolny
       ')]</value>
-      <webElementGuid>18c370ce-4913-4cfe-8bd9-5f854c7b6278</webElementGuid>
+      <webElementGuid>92de07c4-479c-4d54-81ac-87885ce895c9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

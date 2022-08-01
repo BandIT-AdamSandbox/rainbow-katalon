@@ -8,7 +8,7 @@ Chodzi o sprawdzenie czy kolejne zapytania po bloczki np.. na topowych kierunkac
    <testCaseGuid>f3dabf98-a51b-4a53-8ef1-c6e84a03029e</testCaseGuid>
    <testDataLinks>
       <combinationType>ONE</combinationType>
-      <id>65a856b5-c180-45ea-b12c-7e92239642b7</id>
+      <id>ffa09237-24a3-4ec3-8402-3b00e3d4e62c</id>
       <iterationEntity>
          <iterationType>ALL</iterationType>
          <value></value>
@@ -28,7 +28,7 @@ Chodzi o sprawdzenie czy kolejne zapytania po bloczki np.. na topowych kierunkac
       <variableId>324ecdb6-241e-4c83-95d2-cc5ef99a7c3a</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId>65a856b5-c180-45ea-b12c-7e92239642b7</testDataLinkId>
+      <testDataLinkId>ffa09237-24a3-4ec3-8402-3b00e3d4e62c</testDataLinkId>
       <type>DATA_COLUMN</type>
       <value>url</value>
       <variableId>11c4bdb5-f83a-4edd-9273-60914111d525</variableId>

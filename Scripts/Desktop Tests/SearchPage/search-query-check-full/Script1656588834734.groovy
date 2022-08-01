@@ -29,6 +29,8 @@ WebUI.click(findTestObject('Object Repository/SzukajPage/ZamknijCiastka'))
 
 WebUI.enableSmartWait()
 
+WebUI.comment('plik nieaktualny, nie pracuje dobrze')
+
 WebUI.comment('Wyżywienie')
 
 CustomKeywords.'search.filterQueryCheck.clickFilterUnclick'(findTestObject('SzukajPage/SidebarFilters/filter1-1'), GlobalVariable.defaultTimout, 

@@ -16,24 +16,42 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.WebDriver
+import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.chrome.ChromeDriver
+import org.openqa.selenium.chrome.ChromeOptions
 
-WebUI.openBrowser('')
+System.setProperty("webdriver.chrome.driver", DriverFactory.getChromeDriverPath())
 
-WebUI.maximizeWindow()
+Map<String, String> mobileEmulation = new HashMap<>()
 
-WebUI.navigateToUrl('https://r.pl/szukaj')
+mobileEmulation.put("deviceName", GlobalVariable.mobileDevice)
+
+ChromeOptions chromeOptions = new ChromeOptions()
+
+chromeOptions.setExperimentalOption("mobileEmulation", mobileEmulation)
+
+WebDriver driver = new ChromeDriver(chromeOptions)
+
+DriverFactory.changeWebDriver(driver)
+
+driver.navigate().to('https://r.pl/szukaj')
 
 WebUI.comment('1.07.22 - there is a bug and test needs another nav')
-
-WebUI.navigateToUrl('https://r.pl/szukaj')
 
 WebUI.waitForPageLoad(5)
 
 CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/ZamknijCiastka'), timeout)
 
-WebUI.click(findTestObject('Object Repository/SzukajPage/SearchBar/searchBar-typ-transportu'))
+WebUI.click(findTestObject('Mobile Objects/SearchPage/buttony-szukaj-mobile/szukaj-show-options'))
 
-CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/TypTransportu/span_DowolnyTypTransportu'), 
+WebUI.comment('1. typ transportu: Dowolny')
+
+WebUI.click(findTestObject('Mobile Objects/SearchPage/SearchBar/TypTransportu/div_Typ Transportu'))
+
+WebUI.delay(1)
+
+CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('Mobile Objects/SearchPage/SearchBar/TypTransportu/label_Dowolny'), 
     timeout)
 
 CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/searchBar-typ-transportu__wybierz'), 
@@ -43,9 +61,11 @@ CustomKeywords.'search.filterQueryCheck.checkSearchBarQuery'(1, transportation[0
 
 WebUI.delay(timeout)
 
-WebUI.click(findTestObject('Object Repository/SzukajPage/SearchBar/searchBar-typ-transportu'))
+WebUI.comment('2. typ transportu: Samolot Dreamliner')
 
-CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/TypTransportu/span_Samolot Dreamliner'), 
+WebUI.click(findTestObject('Mobile Objects/SearchPage/SearchBar/TypTransportu/div_Typ Transportu'))
+
+CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('Mobile Objects/SearchPage/SearchBar/TypTransportu/label_Samolot Dreamliner'), 
     timeout)
 
 CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/searchBar-typ-transportu__wybierz'), 
@@ -55,47 +75,53 @@ CustomKeywords.'search.filterQueryCheck.checkSearchBarQuery'(1, transportation[2
 
 WebUI.delay(timeout)
 
-WebUI.click(findTestObject('Object Repository/SzukajPage/SearchBar/searchBar-typ-transportu'))
+WebUI.comment('3. typ transportu: Autobus')
 
-CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/TypTransportu/span_Autobus'), timeout)
+WebUI.click(findTestObject('Mobile Objects/SearchPage/SearchBar/TypTransportu/div_Typ Transportu'))
 
-CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/searchBar-typ-transportu__wybierz'), 
-    timeout)
+WebUI.delay(5)
 
-CustomKeywords.'search.filterQueryCheck.checkSearchBarQuery'(1, transportation[3])
+//WebUI.click(findTestObject('Mobile Objects/SearchPage/SearchBar/TypTransportu/label_Autobus'))
 
-WebUI.delay(timeout)
+//CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('Mobile Objects/SearchPage/SearchBar/TypTransportu/label_Autobus'), timeout)
+//
+//CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/searchBar-typ-transportu__wybierz'), 
+//    timeout)
 
-WebUI.click(findTestObject('Object Repository/SzukajPage/SearchBar/searchBar-typ-transportu'))
+//CustomKeywords.'search.filterQueryCheck.checkSearchBarQuery'(1, transportation[3])
+//
+//WebUI.delay(timeout)
 
-CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/TypTransportu/span_DojazdWlasny'), 
-    timeout)
-
-CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/searchBar-typ-transportu__wybierz'), 
-    timeout)
-
-CustomKeywords.'search.filterQueryCheck.checkSearchBarQuery'(1, transportation[4])
-
-WebUI.delay(timeout)
-
-WebUI.click(findTestObject('Object Repository/SzukajPage/SearchBar/searchBar-typ-transportu'))
-
-CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/TypTransportu/span_Samolot'), timeout)
-
-CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/searchBar-typ-transportu__wybierz'), 
-    timeout)
-
-CustomKeywords.'search.filterQueryCheck.checkSearchBarQuery'(1, transportation[1])
-
-CustomKeywords.'search.filterQueryCheck.checkSearchBarQuery'(1, transportation[2])
-
-WebUI.delay(timeout)
-
-WebUI.click(findTestObject('SzukajPage/SearchBar/TypTransportu/usunTypTransportu'))
-
-WebUI.delay(timeout)
-
-CustomKeywords.'search.filterQueryCheck.checkSearchBarQuery'(1, transportation[0])
+//WebUI.click(findTestObject('Object Repository/SzukajPage/SearchBar/searchBar-typ-transportu'))
+//
+//CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/TypTransportu/span_DojazdWlasny'), 
+//    timeout)
+//
+//CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/searchBar-typ-transportu__wybierz'), 
+//    timeout)
+//
+//CustomKeywords.'search.filterQueryCheck.checkSearchBarQuery'(1, transportation[4])
+//
+//WebUI.delay(timeout)
+//
+//WebUI.click(findTestObject('Object Repository/SzukajPage/SearchBar/searchBar-typ-transportu'))
+//
+//CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/TypTransportu/span_Samolot'), timeout)
+//
+//CustomKeywords.'search.filterQueryCheck.clickDelay'(findTestObject('SzukajPage/SearchBar/searchBar-typ-transportu__wybierz'), 
+//    timeout)
+//
+//CustomKeywords.'search.filterQueryCheck.checkSearchBarQuery'(1, transportation[1])
+//
+//CustomKeywords.'search.filterQueryCheck.checkSearchBarQuery'(1, transportation[2])
+//
+//WebUI.delay(timeout)
+//
+//WebUI.click(findTestObject('SzukajPage/SearchBar/TypTransportu/usunTypTransportu'))
+//
+//WebUI.delay(timeout)
+//
+//CustomKeywords.'search.filterQueryCheck.checkSearchBarQuery'(1, transportation[0])
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Mobile test suite,Chrome 90.0.4430.91,,,2022-07-27 16:18:44,2022-07-27 16:18:50,"6,413s",ERROR
+,,,,,,,
+Test Cases/Mobile Tests/Results/popularne-refresh-mobile,Chrome 90.0.4430.91,"Ilość ofert na listingu - różne wyniki ilościowe przy kolejnych zapytaniach bez zmiany parametrów.
+Chodzi o sprawdzenie czy kolejne zapytania po bloczki np.. na topowych kierunkach (r.pl/grecja, r.pl/turcja, r.pl/hiszpania, r.pl/kuba, r.pl/dominikana) bez zmiany parametrów zwracają tą samą ilość wyników w krótkich interwałach czasu (2 sekundy).",,2022-07-27 16:18:49,2022-07-27 16:18:50,"1,268s",ERROR
+"System.setProperty(""webdriver.chrome.driver"", getChromeDriverPath())",Chrome 90.0.4430.91,,,2022-07-27 16:18:49,2022-07-27 16:18:49,"0,001s",PASSED
+mobileEmulation = new java.util.HashMap(),Chrome 90.0.4430.91,,,2022-07-27 16:18:49,2022-07-27 16:18:49,"0,000s",PASSED
+"mobileEmulation.put(""deviceName"", mobileDevice)",Chrome 90.0.4430.91,,,2022-07-27 16:18:49,2022-07-27 16:18:49,"0,001s",PASSED
+chromeOptions = new org.openqa.selenium.chrome.ChromeOptions(),Chrome 90.0.4430.91,,,2022-07-27 16:18:49,2022-07-27 16:18:49,"0,000s",PASSED
+"chromeOptions.setExperimentalOption(""mobileEmulation"", mobileEmulation)",Chrome 90.0.4430.91,,,2022-07-27 16:18:49,2022-07-27 16:18:49,"0,001s",PASSED
+driver = new org.openqa.selenium.chrome.ChromeDriver(chromeOptions),Chrome 90.0.4430.91,,,2022-07-27 16:18:49,2022-07-27 16:18:50,"1,149s",PASSED
+changeWebDriver(driver),Chrome 90.0.4430.91,,,2022-07-27 16:18:50,2022-07-27 16:18:50,"0,046s",PASSED
+navigate().to(url),Chrome 90.0.4430.91,,,2022-07-27 16:18:50,2022-07-27 16:18:50,"0,018s",ERROR

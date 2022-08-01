@@ -10,12 +10,12 @@
          <value>/html/body/div[2]/div/div/div[2]/main/section[5]/div/div[2]/div[1]</value>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value>//div[@class = 'blog__left']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>img.lazy-image__img.artykul__image.lazyLoad.isLoaded</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class = 'blog__left']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>178b2ca8-b903-46fa-97e2-de65768c69f6</webElementGuid>
+      <webElementGuid>963e30b5-80f7-4ecf-ba41-500e0b64f68c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>blog__left</value>
-      <webElementGuid>f4abb49a-3d8b-4e71-ae49-a9ac9ce79f60</webElementGuid>
+      <webElementGuid>f76944e0-dd1a-4bc1-9530-becb0e53f13b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -42,15 +42,15 @@
       <name>src</name>
       <type>Main</type>
       <value>//images.r.pl/zdjecia/lokalizacje/71/portugalia_71_104896_156274_1000x1000.jpg</value>
-      <webElementGuid>3bea2483-f382-498d-8c98-44bff104bdb3</webElementGuid>
+      <webElementGuid>4aab142a-7c47-462b-a4ad-4a8980a71b91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[5]/div/div[2]/div[1]</value>
-      <webElementGuid>5722f876-9fb3-47e1-94ed-d82066103ff4</webElementGuid>
+      <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[6]/div/div[2]/div[1]</value>
+      <webElementGuid>cf331571-74e6-4cda-8c42-501ef6a75632</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -58,7 +58,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__layout']/div/div[2]/main/section[5]/div/div[2]/div/a/div/img</value>
-      <webElementGuid>343e1123-7a78-4bdd-a225-01c81d1bda01</webElementGuid>
+      <webElementGuid>c739bd2a-7312-4afa-8454-3eb0cbe3b506</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/div/a/div/img</value>
-      <webElementGuid>30360596-9202-4ae3-b09f-2c603d40fb28</webElementGuid>
+      <webElementGuid>813e9c6a-ada8-4d0b-9da1-ee95c7466361</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,6 +74,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '//images.r.pl/zdjecia/lokalizacje/71/portugalia_71_104896_156274_1000x1000.jpg']</value>
-      <webElementGuid>1feed600-ad2f-438d-957d-e2ea792c40ea</webElementGuid>
+      <webElementGuid>95ad18c5-63f2-4906-b3ad-69b24ddfa43c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

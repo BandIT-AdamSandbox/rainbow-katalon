@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__layout']/div/div[2]/main/section[4]/div/div</value>
+         <value>//div[@id='__layout']/div/div[2]/main/section[5]/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>7f870212-7c8d-426c-9133-0d436c3714d2</webElementGuid>
+      <webElementGuid>900b24f5-4bcf-4e51-bd7c-8c769e4754d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>popularne popularne__wrap popularne__wrap--desktop</value>
-      <webElementGuid>bc4bf948-84d3-4dfa-b403-086be773d672</webElementGuid>
+      <webElementGuid>dcfed281-7e92-4a88-8c0f-3a7500841ebd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -66,7 +66,7 @@
        
         od 6 144 zł
       </value>
-      <webElementGuid>2d948dfc-8b69-41cc-afa7-e226983f9681</webElementGuid>
+      <webElementGuid>e7076982-c50b-4e95-9a03-3bfda318804f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -74,7 +74,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;strona-glowna&quot;]/section[@class=&quot;section section darker&quot;]/div[@class=&quot;wrap&quot;]/div[@class=&quot;popularne popularne__wrap popularne__wrap--desktop&quot;]</value>
-      <webElementGuid>d495c22b-2c9f-43a4-846a-f1aa3e7b0c22</webElementGuid>
+      <webElementGuid>6f52214a-1f28-4822-bf15-d3fd674d3770</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -82,7 +82,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__layout']/div/div[2]/main/section[4]/div/div</value>
-      <webElementGuid>eee8c0b3-1f08-4d94-aa94-c73f8482ab13</webElementGuid>
+      <webElementGuid>5412aac5-8d6f-475e-926e-cb50eb4219af</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -90,7 +90,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Popularne kierunki'])[1]/following::div[1]</value>
-      <webElementGuid>124a7d47-5892-46a5-975b-a2cf7c233cf3</webElementGuid>
+      <webElementGuid>cdda2485-5717-44a2-8b37-67a1e8ca6431</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,15 +98,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='zł/os.'])[40]/following::div[4]</value>
-      <webElementGuid>d16da2d1-0d3f-4331-b349-5940e6d407b0</webElementGuid>
+      <webElementGuid>63c090cc-35a9-4177-8c2a-856d0f84bde7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//section[4]/div/div</value>
-      <webElementGuid>81fd5c64-8b84-4d20-bc0b-51a1b60cfc5a</webElementGuid>
+      <value>//section[5]/div/div</value>
+      <webElementGuid>38ab1e2d-41d0-40fe-8eea-0b31255d38b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -170,6 +170,6 @@
        
         od 6 144 zł
       ')]</value>
-      <webElementGuid>36606781-32ec-4c73-a756-632265d7feef</webElementGuid>
+      <webElementGuid>ceea67c5-6f9f-4e84-97eb-227c0bb617cf</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

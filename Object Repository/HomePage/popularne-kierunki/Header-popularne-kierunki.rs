@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__layout']/div/div[2]/main/section[4]/div/h2</value>
+         <value>//*[@id=&quot;__layout&quot;]/div/div[2]/main/section[5]/div/h2</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
-      <webElementGuid>630320c5-2a4d-423c-94b8-c34de3b2ed8d</webElementGuid>
+      <webElementGuid>45c72908-5181-46b0-a31d-57327048e71d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>section-header section-header--underline h3</value>
-      <webElementGuid>dc633b71-f451-4f2c-be15-54e88780b3b4</webElementGuid>
+      <webElementGuid>d3db8f57-c06f-4b58-921e-61312da240af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -40,7 +40,7 @@
       <value>
         Popularne kierunki
       </value>
-      <webElementGuid>65eebb9f-6e95-4ea4-9259-b9c978e819ed</webElementGuid>
+      <webElementGuid>383da2ed-9a7d-4635-a9a8-dc7022b760c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -48,15 +48,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;strona-glowna&quot;]/section[@class=&quot;section section darker&quot;]/div[@class=&quot;wrap&quot;]/h2[@class=&quot;section-header section-header--underline h3&quot;]</value>
-      <webElementGuid>c3498d92-e268-4772-a737-94f2a489218b</webElementGuid>
+      <webElementGuid>6516d417-6123-4904-be25-539428085c73</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__layout']/div/div[2]/main/section[4]/div/h2</value>
-      <webElementGuid>09748a81-b53d-4b00-b6cd-29bc0609521f</webElementGuid>
+      <value>//div[@id='__layout']/div/div[2]/main/section[5]/div/h2</value>
+      <webElementGuid>ce94644c-625c-4685-9bac-b38a998f55f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -64,7 +64,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='zł/os.'])[40]/following::h2[1]</value>
-      <webElementGuid>3e1269b9-42ee-4479-a115-98e39da261a0</webElementGuid>
+      <webElementGuid>cd16514c-e759-46a5-a1d7-61a17c9d8895</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -72,7 +72,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Wypoczynek • Polska: Pomorze Zachodnie'])[1]/following::h2[1]</value>
-      <webElementGuid>4e4d3cd2-717d-4192-bea0-ed53926892f9</webElementGuid>
+      <webElementGuid>b683bd24-eccb-469f-8719-7b87b91fa312</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -80,7 +80,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Grecja'])[1]/preceding::h2[1]</value>
-      <webElementGuid>281dcc18-0121-4193-b29c-e872c8f54370</webElementGuid>
+      <webElementGuid>d21874e7-8896-4eee-bf7b-a13823815635</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -88,7 +88,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='od 1 442 zł'])[1]/preceding::h2[1]</value>
-      <webElementGuid>d8d98df0-99fa-4812-a5de-c6c9dc348aa3</webElementGuid>
+      <webElementGuid>6f16157f-9c3d-456f-a32d-c02873d85c07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -96,7 +96,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Popularne kierunki']/parent::*</value>
-      <webElementGuid>e1ddec7e-b94a-4872-9614-37f8b8229db7</webElementGuid>
+      <webElementGuid>6b59c84c-8d9c-49e7-bff3-1668908a93ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -104,7 +104,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//section[4]/div/h2</value>
-      <webElementGuid>2253aab3-f9ea-4eea-b4bd-dddd129354e9</webElementGuid>
+      <webElementGuid>c0cd852a-c44f-478b-83ac-c24bbac81377</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -116,6 +116,6 @@
       ' or . = '
         Popularne kierunki
       ')]</value>
-      <webElementGuid>8f852d95-b792-4bda-84f4-dde52c55fb66</webElementGuid>
+      <webElementGuid>dd2b8e21-2a78-4b4c-8600-36912bfe8207</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

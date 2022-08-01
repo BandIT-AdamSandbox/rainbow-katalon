@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='__layout']/div/div[2]/main/section[6]/div</value>
+         <value>//div[@id='__layout']/div/div[2]/main/section[7]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>cc8c93f9-c31a-45ac-bcb7-7c0bbee2654c</webElementGuid>
+      <webElementGuid>f30dd380-74a8-4202-9003-f0c49c90fff1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>wrap</value>
-      <webElementGuid>d62f1019-d5c1-4084-b833-c2afb127566c</webElementGuid>
+      <webElementGuid>33a2b954-ccae-48c2-b2b2-576531c11eaa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -42,7 +42,7 @@
 
 
  Pokaż więcej</value>
-      <webElementGuid>c1365cc3-04f9-4e0d-9525-c769665e71ab</webElementGuid>
+      <webElementGuid>a4d260de-81f2-4216-8125-dec94b0e8148</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -50,15 +50,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__layout&quot;)/div[1]/div[@class=&quot;default-layout__content&quot;]/main[@class=&quot;strona-glowna&quot;]/section[@class=&quot;section section gray&quot;]/div[@class=&quot;wrap&quot;]</value>
-      <webElementGuid>75521545-c9c7-467f-b304-fe4b03b78e65</webElementGuid>
+      <webElementGuid>3caf1faf-40f4-4706-9037-c90aff50729f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='__layout']/div/div[2]/main/section[6]/div</value>
-      <webElementGuid>482ba562-2dea-4576-9dc5-02b8fac671a2</webElementGuid>
+      <value>//div[@id='__layout']/div/div[2]/main/section[7]/div</value>
+      <webElementGuid>da891b72-9bf9-4489-9f42-2074a047963d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -66,7 +66,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pogoda, klimat i temperatury na Sycylii. Jak przygotować się do wyjazdu?'])[1]/following::div[2]</value>
-      <webElementGuid>7b9f1c35-cd4b-4a5c-a62d-9c34fa03c17e</webElementGuid>
+      <webElementGuid>fb462b73-be84-4fb5-b499-3048fb9c6ba2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,15 +74,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='wysp Grecji'])[1]/following::div[7]</value>
-      <webElementGuid>de5d41a2-5a2b-4474-9bea-d9e0e98443df</webElementGuid>
+      <webElementGuid>63d312c4-850f-4704-aec2-f6435831997c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//section[6]/div</value>
-      <webElementGuid>ba9427b3-d084-4f40-8a4e-ac385a539e62</webElementGuid>
+      <value>//section[7]/div</value>
+      <webElementGuid>f6e24b82-0a11-4a7e-a178-010121d7c97d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -98,6 +98,6 @@
 
 
  Pokaż więcej')]</value>
-      <webElementGuid>06a5f33a-69d7-48ba-8e07-4e0e2465cf91</webElementGuid>
+      <webElementGuid>6b9e2fca-1d29-4959-9946-12ff3dcc3d25</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -7,15 +7,15 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>/html/body/div[2]/div/div/div[2]/main/section[4]/div/div/div[1]/a</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>/html/body/div[2]/div/div/div[2]/main/section[4]/div/div/div[1]/a[count(. | //a[@class = 'popularne-tile-container']) = count(//a[@class = 'popularne-tile-container'])]</value>
+         <value>/html/body/div[2]/div/div/div[2]/main/section[5]/div/div/div[1]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>div.popularne-tile__content</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[2]/div/div/div[2]/main/section[5]/div/div/div[1]/a[count(. | //a[@class = 'popularne-tile-container']) = count(//a[@class = 'popularne-tile-container'])]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -26,7 +26,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6934e15b-229b-4543-b002-197d12ceb7fa</webElementGuid>
+      <webElementGuid>5a64c398-0b2d-497b-9f19-a8cf5fd39a25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -34,7 +34,7 @@
       <name>class</name>
       <type>Main</type>
       <value>popularne-tile-container</value>
-      <webElementGuid>3f9e356e-3184-444f-a560-ecea9ef7cab9</webElementGuid>
+      <webElementGuid>a73b0940-a893-402e-a375-5f07931dc03f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
        
         od 1 442 zł
       </value>
-      <webElementGuid>62df1329-bdcf-4b99-a124-65ca431d495a</webElementGuid>
+      <webElementGuid>95eeac4b-3946-4dc7-abb6-a570cbb37760</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html/body/div[2]/div/div/div[2]/main/section[4]/div/div/div[1]/a</value>
-      <webElementGuid>778cd119-324e-4f2f-a94a-ff4e7a9cf3ec</webElementGuid>
+      <value>/html/body/div[2]/div/div/div[2]/main/section[5]/div/div/div[1]/a</value>
+      <webElementGuid>7e8f08d7-714a-4933-98c9-3672af0a9308</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__layout']/div/div[2]/main/section[4]/div/div/div/a/div[2]</value>
-      <webElementGuid>631665b0-79d8-4fcb-ba23-bcc9e5f5b697</webElementGuid>
+      <webElementGuid>fac59f41-419e-4005-a7ea-e149068004b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Popularne kierunki'])[1]/following::div[4]</value>
-      <webElementGuid>6f3d27aa-d7d1-4919-abd6-5d29446844ea</webElementGuid>
+      <webElementGuid>a5cc8101-577d-474e-95b7-c36f7bc3f7f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='zł/os.'])[40]/following::div[7]</value>
-      <webElementGuid>4515edb4-c22a-44f3-ba52-a05f68295d83</webElementGuid>
+      <webElementGuid>ae339ce2-9869-4b47-acc3-20be7f3e7437</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//a/div[2]</value>
-      <webElementGuid>45abe3e5-e1a4-4f8c-9da1-029c6a696d8a</webElementGuid>
+      <webElementGuid>cf6fa499-bd09-4c06-a606-fe5eea355663</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
        
         od 1 442 zł
       ')]</value>
-      <webElementGuid>8a2fd839-7b0f-49ee-a59d-3df199369838</webElementGuid>
+      <webElementGuid>f315c175-4842-41de-b8ee-2b11fdda56ca</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

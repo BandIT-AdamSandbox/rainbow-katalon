@@ -16,10 +16,26 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.WebDriver
+import com.kms.katalon.core.webui.driver.DriverFactory
+import org.openqa.selenium.chrome.ChromeDriver
+import org.openqa.selenium.chrome.ChromeOptions
 
-WebUI.openBrowser('')
+System.setProperty("webdriver.chrome.driver", DriverFactory.getChromeDriverPath())
 
-WebUI.navigateToUrl('https://r.pl/')
+Map<String, String> mobileEmulation = new HashMap<>();
+
+mobileEmulation.put("deviceName", GlobalVariable.mobileDevice);
+
+ChromeOptions chromeOptions = new ChromeOptions();
+
+chromeOptions.setExperimentalOption("mobileEmulation", mobileEmulation);
+
+WebDriver driver = new ChromeDriver(chromeOptions);
+
+DriverFactory.changeWebDriver(driver)
+
+driver.navigate().to('https://r.pl/')
 
 WebUI.waitForPageLoad(timeout)
 

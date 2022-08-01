@@ -3,10 +3,20 @@
    <description></description>
    <name>default</name>
    <tag></tag>
-   <defaultProfile>false</defaultProfile>
+   <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
       <initValue>'https://r.pl'</initValue>
       <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Pixel 5'</initValue>
+      <name>mobileDevice</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>10</initValue>
+      <name>defaultTimout</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>
