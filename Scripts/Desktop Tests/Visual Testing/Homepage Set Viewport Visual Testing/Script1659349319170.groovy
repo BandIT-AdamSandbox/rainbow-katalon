@@ -17,11 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('https://r.pl')
-
-WebUI.waitForPageLoad(3)
+WebUI.openBrowser('')
 
 WebUI.maximizeWindow()
+
+WebUI.delay(2)
+
+WebUI.navigateToUrl('https://r.pl')
+
+WebUI.waitForPageLoad(3)
 
 WebUI.setViewPortSize(1440, 791)
 
