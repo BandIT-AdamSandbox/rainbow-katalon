@@ -19,9 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('https://r.pl')
 
+WebUI.waitForPageLoad(3)
+
 WebUI.maximizeWindow()
 
 WebUI.setViewPortSize(1440, 791)
+
+WebUI.delay(5)
 
 WebUI.takeFullPageScreenshotAsCheckpoint('Homepage')
 
