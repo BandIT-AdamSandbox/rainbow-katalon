@@ -27,7 +27,7 @@ WebUI.navigateToUrl('https://r.pl')
 
 WebUI.waitForPageLoad(3)
 
-WebUI.setViewPortSize(1440, 791)
+WebUI.setViewPortSize(1024, 768)
 
 WebUI.delay(5)
 
